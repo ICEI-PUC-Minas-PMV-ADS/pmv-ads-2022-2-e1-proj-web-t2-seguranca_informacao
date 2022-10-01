@@ -1,6 +1,6 @@
 # Referências
 
-* LAB, Kaspersky. <b>Consumer Security Risks Survey</b>. 2016. Disponível em : https://media.kasperskycontenthub.com/wpcontent/uploads/sites/45/2018/03/08233505/B2C_survey_2016_report_.pdf. Acessado em 31/08/2022. 
+* LAB, Kaspersky. <b>Consumer Security Risks Survey</b>. 2016. Disponível em : https://media.kasperskycontenthub.com/wp-content/uploads/sites/45/2018/03/08233505/B2C_survey_2016_report_.pdf. Acessado em 31/08/2022. 
 
 * Wikipedia. <b>Data Breach</b>. 2022. Disponível em: https://en.wikipedia.org/wiki/Data_breach. Acessado em 01/09/2022. 
 
