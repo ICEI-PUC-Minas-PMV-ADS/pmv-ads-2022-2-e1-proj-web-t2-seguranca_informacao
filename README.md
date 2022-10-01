@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# SEGURANÇA DA INFORMAÇÃO
 
-`CURSO`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - PUC MINAS
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+2º/2022
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Amanda de Almeida Silva 
+* Flávio Martins da Cruz 
+* Diego Ruas Toledo 
+* Lucas Delmasquio Silva 
+* Mateus Borges Martins da Silva
 
-## Orientador
 
-* Nome completo do professor 1
+## Orientadora
+
+* Joyce Christina de Paiva Carvalho
 
 ## Instruções de utilização
 

@@ -1,46 +1,47 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O contexto atual de crescente informatização nos diversos seguimentos das nossas vidas trouxe consigo inúmeras vantagens e comodidades, a exemplo de serviços como e-comerce, online banking, educação à distância, telemedicina, redes sociais, dentre outras.
+
+A propagação do uso desses meios e a rapidez e agilidade proporcionada por eles fez com que as pessoas fiquem cada vez mais dependentes de logins e senhas para ter acesso aos mais diversos serviços. 
+Diante disso, surge a preocupação a respeito da maneira em que as pessoas lidam com seus acessos e senhas, tendo em vista os riscos que isso pode acarretar para a segurança da informação.
+
+Um levantamento da empresa Kaspersky Lab demonstrou que muitos usuários colocam a segurança de suas informações em risco, por escolherem senhas repetidas para diversas aplicações, usarem senhas fracas ou ainda armazená-las sem segurança.
+
+Frequentemente, encontram-se relatos de pessoas que tiveram problemas com suas contas bancárias, contas em redes sociais e sites de compra por utilizarem senhas muito vulneráveis. Isso denota que diversos usuários têm a sua segurança digital comprometida pelo fato de não terem conhecimentos a respeito da segurança da informação.
+
+Em face do que foi exposto, é importante pensar em soluções que apresentem mecanismos para que as pessoas consigam avaliar a qualidade de suas senhas, sugiram a criação de senhas fortes e que forneçam informações relevantes sobre segurança da informação, com o objetivo principal de minimizar o vazamento de informações.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Dificuldade para criação de senhas seguras por parte dos usuários.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Este trabalho tem como objetivo geral auxiliar os usuários na criação de senhas mais seguras.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+A aplicação possui como objetivos específicos:
+* Avaliar a qualidade das senhas informadas pelos usuários;
+* Sugerir senhas fortes, caso necessário;
+* Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet;
+* Alertar sobre senhas vazadas.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O século XXI está marcado por inúmeras ocorrências de vazamento de dados.
+A observação das senhas vazadas evidencia a falta de conhecimento básico para a criação de senhas fortes por parte dos usuários. Percebeu-se que padrões primários são usados frequentemente, como “123456”, “abc12345”, ou “a1b2c3d4e5”, mostrando que a escolhas das senhas ocorre majoritariamente pensando na facilidade de memorização.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Em um estudo apresentado por Zviran e Haga (1999), foi mostrado que 80% das senhas utilizam apenas as letras do alfabeto, 65,7% possuem entre 4 e 6 caracteres, 14% dos usuários utilizam senhas com 7 caracteres e que 13% delas contêm 8 caracteres.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Uma pesquisa da Kaspersky Lab, realizada em 21 países, incluindo o Brasil, apresentou três erros frequentes na geração de senhas por parte dos usuários: há utilização de mesma senha para diversas contas; senhas fracas são usadas indiscriminadamente; senhas são armazenadas de maneira inadequada. Além disso, a pesquisa mostrou que 64% das pessoas criam senhas misturando letras e números, que 47% dos usuários utilizam combinações de letras maiúsculas e minúsculas e que apenas 4% deles fazem uso de software especializado para geração de senhas fortes.
+
+Considerando-se que o uso de senhas convencionais ainda é predominante, se comparado com a utilização de aplicativos para autenticação, biometria ou outras tecnologias, e que a necessidade de criação de novas senhas fortes é considerada como um desafio para um número significativo de usuários, o projeto apresentado justifica-se por ser uma opção viável para automatizar a criação de senhas fortes e disponibilizá-las para os usuários, além de fornecer informações relevantes sobre segurança da informação.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Acredita-se que o presente projeto tenha a possibilidade de beneficiar uma gama ampla de pessoas, uma vez que o uso de serviços nos quais são necessários senhas e logins ainda são amplamente difundidos. Contudo, é importante ressaltar que a aplicação aqui proposta pode ser especialmente útil para pessoas que percebam certa vulnerabilidade das suas informações no contexto web.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Desta forma, estabeleceu-se como público-alvo pessoas entre 15 e 65 anos, que fazem uso frequente de serviços web, e que queiram aprimorar a qualidade das suas senhas, além de adquirir ou melhorar seus conhecimentos sobre o tema de segurança da informação.
