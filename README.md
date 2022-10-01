@@ -1,4 +1,4 @@
-# SEGURANÇA DA INFORMAÇÃO
+# SEGURANÇA DA INFORMAÇÃO (Definir um nome para o projeto)
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - PUC MINAS`
 
@@ -6,7 +6,8 @@
 
 `2º/2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto tem como objetivo geral auxiliar os usuários na criação de senhas mais seguras.
+É uma aplicação que apresenta mecanismos para que as pessoas consigam avaliar a qualidade de suas senhas, sugira a criação de senhas fortes, forneça informações relevantes sobre segurança da informação e alerte sobre senhas que foram vazadas.
 
 ## Integrantes
 
