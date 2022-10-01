@@ -17,8 +17,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/persona3.png?raw=true" width="500" />  
 
-<br/>
-
 ## Histórias de Usuários
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
@@ -33,8 +31,6 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |Matheus Henrique|Reduzir as chances de que suas senhas sejam descobertas|Proteger suas redes sociais e aplicativos|
 |Matheus Henrique|Ajuda na criação de senhas fortes e únicas para cada site onde for cadastrado|Não utilizar a mesma senha em vários sites|
 |Matheus Henrique|Avaliar a qualidade das suas senhas|Criar senhas mais seguras, caso necessário|
-
-<br/>
 
 ## Requisitos
 
