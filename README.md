@@ -6,7 +6,7 @@
 
 `2º/2022`
 
-Este projeto tem como objetivo geral auxiliar os usuários na criação de senhas mais seguras.
+Este projeto tem como objetivo geral auxiliar os usuários na criação de senhas mais seguras.  
 É uma aplicação que apresenta mecanismos para que as pessoas consigam avaliar a qualidade de suas senhas, sugira a criação de senhas fortes, forneça informações relevantes sobre segurança da informação e alerte sobre senhas que foram vazadas.
 
 ## Integrantes
