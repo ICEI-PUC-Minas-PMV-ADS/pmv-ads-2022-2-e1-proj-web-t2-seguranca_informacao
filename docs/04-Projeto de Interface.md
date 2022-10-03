@@ -8,7 +8,14 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 Os diagramas apresentados nas figuras abaixo mostram o fluxo de interação do usuário pelas telas do sistema.
 Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o [ambiente MarvelApp do projeto](https://app.moqups.com/CSq48rItB6ZC77nu99fnhuYfU07mzKEV/view/page/a4d0168da).  
 
+#### Versão desktop:  
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Fluxo_desktop.PNG?raw=true"/> 
+
+
+#### Versão mobile:  
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Fluxo_mobile.PNG?raw=true"/> 
 
 ## Wireframes
 
