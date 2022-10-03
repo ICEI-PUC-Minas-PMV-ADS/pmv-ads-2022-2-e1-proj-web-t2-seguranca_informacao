@@ -27,11 +27,11 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 A equipe está organizada da seguinte maneira: 
 * Scrum Master: Diego Ruas Toledo 
-* Product Owner: Flávio Martins da Cruz
+* Product Owner: Lucas Delmasquio Silva
 * Equipe de Desenvolvimento 
   * Amanda de Almeida Silva 
   * Mateus Borges Martins da Silva  
-* Equipe de Design: Lucas Delmasquio Silva 
+* Equipe de Design: Flávio Martins da Cruz
 
 ### Processo
 
