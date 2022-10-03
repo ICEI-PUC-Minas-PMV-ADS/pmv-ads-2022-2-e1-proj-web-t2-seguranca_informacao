@@ -26,8 +26,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. 
 
 A equipe está organizada da seguinte maneira: 
-* Scrum Master: Flávio Martins da Cruz 
-* Product Owner: Diego Ruas Toledo 
+* Scrum Master: Diego Ruas Toledo 
+* Product Owner: Flávio Martins da Cruz
 * Equipe de Desenvolvimento 
   * Amanda de Almeida Silva 
   * Mateus Borges Martins da Silva  
