@@ -6,7 +6,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 ## Fluxo do usuário
 
 Os diagramas apresentados nas figuras abaixo mostram o fluxo de interação do usuário pelas telas do sistema.
-Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o [ambiente MarvelApp do projeto](https://app.moqups.com/CSq48rItB6ZC77nu99fnhuYfU07mzKEV/view/page/a4d0168da).  
+Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o [ambiente MoqupsApp do projeto](https://app.moqups.com/CSq48rItB6ZC77nu99fnhuYfU07mzKEV/view/page/a4d0168da).  
 
 #### Versão desktop:  
 
