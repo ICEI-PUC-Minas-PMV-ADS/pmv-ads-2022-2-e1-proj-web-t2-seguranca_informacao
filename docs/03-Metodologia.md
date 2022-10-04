@@ -16,7 +16,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |Repositório de código fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao|
 |Documentos do projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/tree/main/docs|
 |Projeto de Interface e Wireframes|Moqups|https://app.moqups.com/CSq48rItB6ZC77nu99fnhuYfU07mzKEV/view/page/a4d0168da|
-|Gerenciamento do Projeto|A definir|A definir|
+|Gerenciamento do Projeto|GitHub|https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/173|
 
 
 ## Gerenciamento de Projeto
