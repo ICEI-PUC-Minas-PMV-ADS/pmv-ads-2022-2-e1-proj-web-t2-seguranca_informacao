@@ -21,4 +21,14 @@ Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segu
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.  
 
+## Tela - Home-Page 
+
+A tela de home-page mostra 3 opções de interações de destaque a partir da API utilizada pelo sistema. Com base na estrutura e possível que o usuário realize um teste de qualidade de suas senhas, crie senhas novas e possa navegar conhecendo um pouco mais sobre a segurança da informação.
+
+Componente de teste suas senhas que permite o usuário verificar o nível de  segurança da sua senha. 
+
+Componente de criar senha segura auxilia o usuário que esteja sem criatividade criando uma senha mais segura. 
+
+Componente de mais sobre a segurança da informação direciona o usuário para um informativo sobre a segurança de ter uma senha de qualidade. 
+
 
