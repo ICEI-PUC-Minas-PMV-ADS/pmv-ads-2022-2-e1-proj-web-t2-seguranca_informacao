@@ -31,6 +31,6 @@ A tela de home-page mostra 3 opções de interações de destaque a partir da AP
 
 .Componente de mais sobre a segurança da informação direciona o usuário para um informativo sobre a segurança de ter uma senha de qualidade. 
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/tela%20home%20.png?raw=true""/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/tela%20home%20.png?raw=true"/>
 
 
