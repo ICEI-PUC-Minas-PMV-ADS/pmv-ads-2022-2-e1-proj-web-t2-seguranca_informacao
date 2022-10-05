@@ -16,13 +16,13 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 ## Tela - Home-Page 
 
-A tela de home-page mostra 3 opções de interações de destaque a partir da API utilizada pelo sistema. Com base na estrutura e possível que o usuário realize um teste de qualidade de suas senhas, crie senhas novas e possa navegar conhecendo um pouco mais sobre a segurança da informação.
+A tela de home-page mostra 3 opções de interações de destaque. Com base na estrutura e possível que o usuário realize um teste de qualidade de suas senhas, crie senhas novas e possa navegar conhecendo um pouco mais sobre a segurança da informação.
 
-.Componente de teste suas senhas que permite o usuário verificar o nível de  segurança da sua senha. 
+* Componente de teste suas senhas que permite o usuário verificar o nível de  segurança da sua senha. 
 
-.Componente de criar senha segura auxilia o usuário que esteja sem criatividade criando uma senha mais segura. 
+* Componente de criar senha segura auxilia o usuário a criar uma senha mais segura. 
 
-.Componente de mais sobre a segurança da informação direciona o usuário para um informativo sobre a segurança de ter uma senha de qualidade. 
+* Componente de mais sobre a segurança da informação direciona o usuário para um informativo sobre a segurança e qualidade das senhas. 
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/tela%20home%20.png?raw=true"/>
 
