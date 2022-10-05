@@ -33,4 +33,30 @@ A tela de home-page mostra 3 opções de interações de destaque a partir da AP
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/tela%20home%20.png?raw=true"/>
 
+## Tela - Teste suas senhas
+
+Na tela de teste, apresenta um espaço para o usuário colocar senhas já criadas, logo após, aparecerá uma barra com o nível de segurança de sua senha, sendo eles: fraca, média ou forte. Quando fraca, aparecerá um quadro logo abaixo sugerindo que o usuário realize a troca da senha. É possível abrir o gerador de senha sugerido à direita da página. 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/teste%20de%20senha.png?raw=true"/>
+
+## Tela - Crie senhas mais seguras 
+
+Na tela de criação de senhas, o usuário deve seguir alguns requisitos como os mostrados no quadro à direita da página para que sua senha possa se validada pelo site. Será possível também o usuário gerar suas senhas no quadro à esquerda. 
+
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/crie%20senhas%20seguras.png?raw=true"/>
+ 
+ ## Tela - Saiba mais sobre segurança da informação 
+ 
+ A tela saiba mais sobre a segurança da informação, trará para os usuários algumas curiosidades, casos, estudos e pesquisas com o intuito de informar sobre a importância de gerar senhas fortes. 
+ 
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/saiba%20mais%20.png?raw=true"/>
+ 
+ ## Tela - Quem somos 
+ 
+ Na tela quem somos iremos realizar uma breve apresentação da equipe de desenvolvedores do projeto. 
+ 
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/quem%20somos.png?raw=true"/>
+ 
+
+
 
