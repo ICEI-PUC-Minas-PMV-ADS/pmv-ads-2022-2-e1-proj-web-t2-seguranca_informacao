@@ -50,7 +50,7 @@ Algumas informações extras estão disponíveis como sugestão de criação de 
 
 Ao selecionar alguma das informações disponíveis, o usuário será direcionado para a tela com o conteúdo propriamente dito, como mostrado na imagem de exemplo abaixo:
 
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/saiba_mais_exemplo.png?raw=true"/> 
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/saiba_mais_exemplo.PNG?raw=true"/> 
 
  ## Tela - Quem somos 
  
