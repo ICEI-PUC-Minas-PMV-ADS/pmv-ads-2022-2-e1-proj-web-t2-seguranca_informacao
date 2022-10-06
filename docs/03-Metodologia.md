@@ -49,7 +49,7 @@ A equipe está organizada da seguinte maneira:
 
  O quadro kanban do grupo está disponível através da URL https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/173 e é apresentado, no estado atual, na figura abaixo:
 
- <img scale=1.2 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/persona1.png?raw=true" width="500" />
+ <img scale=1.2 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/kanban.PNG?raw=true"/>
 
 ### Processo
 
