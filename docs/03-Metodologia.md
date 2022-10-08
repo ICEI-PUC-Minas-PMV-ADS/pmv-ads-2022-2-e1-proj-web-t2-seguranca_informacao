@@ -69,6 +69,7 @@ As ferramentas empregadas no projeto são:
 - GitHub
 - Visual Studio Code
 - Microsoft Teams
-- app.moqups.com para de desenho de tela (_wireframing_)
+- Whatsapp
+- Moqups app para de esquematização de telas (_wireframing_)
 
 O Visual Studio Code foi escolhido porque ele possui uma integração direta com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos o site moqups.com por melhor captar as necessidades da nossa solução.
