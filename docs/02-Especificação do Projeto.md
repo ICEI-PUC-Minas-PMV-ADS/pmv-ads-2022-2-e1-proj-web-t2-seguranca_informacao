@@ -32,6 +32,8 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |Matheus Henrique|Ajuda na criação de senhas fortes e únicas para cada site onde for cadastrado|Não utilizar a mesma senha em vários sites|
 |Matheus Henrique|Avaliar a qualidade das suas senhas|Criar senhas mais seguras, caso necessário|
 
+<br/>
+
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -55,6 +57,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-03|O site deve ter bom nível de contraste entre os elementos da tela em conformidade|<span style="color:#66ff33">Baixa</span>|
 |RNF-04|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)|<span style="color:red">Alta</span>|
 |RNF-05|O site deve ser desenvolvido com layout simples, organizado e intuitivo|<span style="color:orange">Média</span>|
+
+<br/>
 
 ## Restrições
 
