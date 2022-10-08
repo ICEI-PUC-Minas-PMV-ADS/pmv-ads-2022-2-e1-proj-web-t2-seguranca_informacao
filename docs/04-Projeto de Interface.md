@@ -70,6 +70,9 @@ Foram criados wireframes simulando a responsividade da aplicação, como é poss
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Telas_responsivas.png?raw=true"/>
  
+<br/>
+<br/>
 
+Para visualizar o `wireframe interativo responsivo`, acesse o [ambiente MoqupsApp do projeto](https://app.moqups.com/Pk2BIZXcAPF0hFa8G0HR9Sm7LT77x6Gp/view/page/a3147ce39).
 
 
