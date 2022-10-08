@@ -11,10 +11,8 @@ Os componentes que fazem parte da solução são apresentados na figura que se s
 A solução implementada conta com os seguintes módulos:
 * Navegador - Interface básica do sistema 
   * Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-* API v3 – contém um banco de dados com centenas de milhões de senhas que foram anteriormente expostas em violações de dados.
+* API v3 (haveibeenpwned.com) – contém um banco de dados com centenas de milhões de senhas que foram anteriormente expostas em violações de dados.
 * Hospedagem - GitHub Pages. 
-
-
 
 ## Tecnologias Utilizadas
 
