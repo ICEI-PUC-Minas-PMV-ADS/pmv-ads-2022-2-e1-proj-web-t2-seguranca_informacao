@@ -12,18 +12,21 @@ A solução implementada conta com os seguintes módulos:
 * Navegador - Interface básica do sistema 
   * Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
 * API v3 – contém um banco de dados com centenas de milhões de senhas que foram anteriormente expostas em violações de dados.
-* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+* Hospedagem - GitHub Pages. 
 
 
 
 ## Tecnologias Utilizadas
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-> Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+* HTML, CSS, JavaScript;
+* Git, GitHub, GitHub Pages e Github Projects;
+* API v3 (haveibeenpwned.com);
+* Visual Studio Code;
+* Microsoft Teams e Whatsapp;
+* Moqups app.
 
 
 ## Hospedagem
 
-> Explique como a hospedagem e o lançamento da plataforma foi feita.
+A Hospedagem será feita futuramente em servidor do GitHub Pages.
 
