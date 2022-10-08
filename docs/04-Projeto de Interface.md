@@ -40,26 +40,35 @@ Ainda na tela de teste de senhas, há uma imagem que direciona o usuário para a
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/crie%20senhas%20seguras.png?raw=true" width=800/>
 
-Na tela de criação de senhas, o usuário pode selecionar os tipos de caracteres que deseja incluir nas mesmas, como números, letras maiúsculas ou minúsculas e caracteres especiais.
-Também é possível definir o tamanho da senha, de 8 a 32 caracteres.
+O usuário pode selecionar os tipos de caracteres que deseja incluir nas senhas, como números, letras maiúsculas ou minúsculas e caracteres especiais.  
+Também é possível definir o tamanho da senha, de 8 a 32 caracteres.  
 Algumas informações extras estão disponíveis como sugestão de criação de senhas fortes.
  
- ## Tela - Saiba mais sobre segurança da informação 
+ ## Tela: Saiba mais sobre segurança da informação 
 
  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/saiba%20mais%20.png?raw=true"/> 
 
- A tela saiba mais sobre a segurança da informação trará para os usuários algumas curiosidades, casos, estudos e pesquisas com o intuito de informar sobre a importância de gerar senhas fortes. 
+ A tela exibe algumas curiosidades, casos, estudos e pesquisas com o intuito de informar sobre a importância de gerar senhas fortes.  
 
 Ao selecionar alguma das informações disponíveis, o usuário será direcionado para a tela com o conteúdo propriamente dito, como mostrado na imagem de exemplo abaixo:
 
  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/saiba_mais_exemplo.PNG?raw=true"/> 
 
- ## Tela - Quem somos 
+ ## Tela: Quem somos 
  
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/quem%20somos.png?raw=true"/>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/quem%20somos.png?raw=true" width=800/>
  
- Na tela quem somos iremos realizar uma breve apresentação da equipe de desenvolvedores do projeto. 
+ Há uma breve apresentação da equipe de desenvolvedores do projeto. 
  
+<br/>
+
+ ## Responsividade das telas
+
+Um dos requisitos não funcionais (RNF-02) estabelece que `O site deverá ser responsivo, permitindo a visualização em celular de forma adequada`.
+
+Foram criados wireframes simulando a responsividade da aplicação, como é possível observar abaixo no resumo de todas as telas:
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Telas_responsivas.png?raw=true"/>
  
 
 
