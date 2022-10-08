@@ -1,14 +1,16 @@
 
 # Projeto de Interface
 
-Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis. 
+Dentre as preocupações para a criação da interface da aplicação, buscamos entregar telas minimalistas que possibilitem navegação com agilidade, acessibilidade e usabilidade.
+O projeto possui identidade visual padronizada em todas as telas e possui ajuste responsivo para uso em dispositivos diversos. 
 
 ## Fluxo do usuário
 
-O diagrama apresentado na figura abaixo mostra o fluxo de interação do usuário pelas telas do sistema.
-Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o [ambiente MoqupsApp do projeto](https://app.moqups.com/CSq48rItB6ZC77nu99fnhuYfU07mzKEV/view/page/a4d0168da).  
+O diagrama apresentado na figura abaixo mostra o fluxo de interação do usuário pelas telas da aplicação.
+Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
+Para visualizar o `wireframe interativo`, acesse o [ambiente MoqupsApp do projeto](https://app.moqups.com/CSq48rItB6ZC77nu99fnhuYfU07mzKEV/view/page/a4d0168da).  
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Fluxo_desktop.PNG?raw=true"/> 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Fluxo_desktop.PNG?raw=true" width=600/> 
 
 ## Wireframes
 
