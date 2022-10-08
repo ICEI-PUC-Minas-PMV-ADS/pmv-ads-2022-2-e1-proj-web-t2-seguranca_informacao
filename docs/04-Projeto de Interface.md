@@ -7,20 +7,20 @@ O projeto possui identidade visual padronizada em todas as telas e possui ajuste
 ## Fluxo do usuário
 
 O diagrama apresentado na figura abaixo mostra o fluxo de interação do usuário pelas telas da aplicação.
-Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
+Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.  
 Para visualizar o `wireframe interativo`, acesse o [ambiente MoqupsApp do projeto](https://app.moqups.com/CSq48rItB6ZC77nu99fnhuYfU07mzKEV/view/page/a4d0168da).  
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Fluxo_desktop.PNG?raw=true" width=800/> 
 
 ## Wireframes
 
-Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.  
+Conforme fluxo de telas do projeto, as telas do sistema são apresentadas em detalhes nos itens que se seguem.  
 
-## Tela - Home-Page 
+## Tela: Home-Page 
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/tela%20home%20.png?raw=true"/>
 
-A tela de home-page é bem direta e com visual minimalista, apresentando três opções de interações para o usuário:
+A tela de home-page apresenta três opções de interações para o usuário:
 
 * __Teste suas senhas__: permite ao usuário verificar o nível de  segurança da sua senha.
 
@@ -28,17 +28,17 @@ A tela de home-page é bem direta e com visual minimalista, apresentando três o
 
 * __Mais sobre a segurança da informação__: fornece ao usuário informações diversas sobre segurança da informação. 
 
-## Tela - Teste suas senhas
+## Tela: Teste suas senhas
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/teste%20de%20senha.png?raw=true"/>
 
-Apresenta uma área de _input_ para que o usuário possa inserir as suas senhas criadas previamente. Em seguida, aparecerá uma barra com o nível de segurança de sua senha, sendo eles: fraca, média ou forte.
-Quando a senha for considerada de qualidade fraca ou média, aparecerá um quadro sugerindo que o usuário realize a troca dela, além de mostrar quantas vezes a senha foi vazada.
+Apresenta uma área de _input_ para que o usuário possa inserir senhas criadas previamente. Logo abaixo, aparecerá uma barra com o nível de segurança de sua senha, sendo: fraca, média ou forte.  
+Quando a senha for considerada de qualidade fraca ou média, aparecerá um quadro sugerindo para que o usuário realize a troca dela, além de mostrar quantas vezes a senha foi vazada.  
 Ainda na tela de teste de senhas, há uma imagem que direciona o usuário para a tela de criação de senhas mais seguras. 
 
-## Tela - Crie senhas mais seguras 
+## Tela: Crie senhas mais seguras 
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/crie%20senhas%20seguras.png?raw=true"/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/crie%20senhas%20seguras.png?raw=true" width=800/>
 
 Na tela de criação de senhas, o usuário pode selecionar os tipos de caracteres que deseja incluir nas mesmas, como números, letras maiúsculas ou minúsculas e caracteres especiais.
 Também é possível definir o tamanho da senha, de 8 a 32 caracteres.
