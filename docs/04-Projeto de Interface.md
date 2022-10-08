@@ -10,7 +10,7 @@ O diagrama apresentado na figura abaixo mostra o fluxo de interação do usuári
 Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
 Para visualizar o `wireframe interativo`, acesse o [ambiente MoqupsApp do projeto](https://app.moqups.com/CSq48rItB6ZC77nu99fnhuYfU07mzKEV/view/page/a4d0168da).  
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Fluxo_desktop.PNG?raw=true" width=600/> 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Fluxo_desktop.PNG?raw=true" width=800/> 
 
 ## Wireframes
 
