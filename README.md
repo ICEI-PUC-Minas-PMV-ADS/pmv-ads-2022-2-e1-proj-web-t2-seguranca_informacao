@@ -1,6 +1,6 @@
-# InfoSec
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Logo.png?raw=true" width=300/>
 
-
+<br/>
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - PUC MINAS`
 
@@ -26,7 +26,7 @@ Este projeto tem como objetivo auxiliar os usuários na criação de senhas mais
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+> Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
 
@@ -46,12 +46,12 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+> Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
 
 # Armazenamento do Código-Fonte
 
-* <a href="src/README.md">Código Fonte</a>
+> <a href="src/README.md">Código Fonte</a>
 
 # Armazenamento da Apresentação
 
-* <a href="presentation/README.md">Apresentação da solução (inserir)</a>
+> <a href="presentation/README.md">Apresentação da solução (inserir)</a>
