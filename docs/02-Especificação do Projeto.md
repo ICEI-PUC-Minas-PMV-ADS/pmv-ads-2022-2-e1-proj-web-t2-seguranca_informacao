@@ -44,6 +44,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-01|Avaliar a qualidade das senhas informadas pelos usuários|<span style="color:red">Alta</span>|
 |RF-02|Criar senhas seguras para os usuários|<span style="color:red">Alta</span>|
+|RF-03|Formulário com informações básicas do usuário (nome, data de nascimento, e-mail, telefone)|<span style="color:red">Alta</span>|
 |RF-03|Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet|<span style="color:orange">Média</span>|
 |RF-04|Informar se a senha do usuário foi vazada|<span style="color:#66ff33">Baixa</span>|
 
