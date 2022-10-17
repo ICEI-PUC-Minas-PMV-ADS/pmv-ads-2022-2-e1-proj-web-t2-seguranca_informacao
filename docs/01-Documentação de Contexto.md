@@ -5,7 +5,7 @@ O contexto atual de crescente informatização nos diversos seguimentos das noss
 A propagação do uso desses meios e a rapidez e agilidade proporcionada por eles fez com que as pessoas fiquem cada vez mais dependentes de logins e senhas para ter acesso aos mais diversos serviços. 
 Diante disso, surge a preocupação a respeito da maneira em que as pessoas lidam com seus acessos e senhas, tendo em vista os riscos que isso pode acarretar para a segurança da informação.
 
-Um levantamento da empresa Kaspersky Lab demonstrou que muitos usuários colocam a segurança de suas informações em risco, por escolherem senhas repetidas para diversas aplicações, usarem senhas fracas ou ainda armazená-las sem segurança.
+Um levantamento da empresa Kaspersky Lab (2016) demonstrou que muitos usuários colocam a segurança de suas informações em risco, por escolherem senhas repetidas para diversas aplicações, usarem senhas fracas ou ainda armazená-las sem segurança.
 
 Frequentemente, encontram-se relatos de pessoas que tiveram problemas com suas contas bancárias, contas em redes sociais e sites de compra por utilizarem senhas muito vulneráveis. Isso denota que diversos usuários têm a sua segurança digital comprometida pelo fato de não terem conhecimentos a respeito da segurança da informação.
 
