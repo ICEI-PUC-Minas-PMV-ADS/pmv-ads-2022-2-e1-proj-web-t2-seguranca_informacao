@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img{
+  width: 100px;
+}
+
+body{
+  padding: 15px;
+}
+
+main{
+  display: flex;
+  gap: 15px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.quadro{
+  border: 1px solid rgb(191, 191, 191);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.quadro h2{
+  font-size: 15px;
+}
