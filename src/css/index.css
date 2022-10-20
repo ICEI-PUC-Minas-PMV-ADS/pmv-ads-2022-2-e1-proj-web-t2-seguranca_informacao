@@ -22,14 +22,6 @@ header img{
   width: 225px;
 }
 
-header img:nth-child(1){
-  width: 225px;
-}
-
-header nav img{
-  width: 225px;
-}
-
 .imagem {
   position: absolute;
   max-width: 70px;
@@ -37,7 +29,6 @@ header nav img{
   left: 120px;
   top: -40px;
   border: 2px solid #F9F9F9;
-  /* background-color: #edf0f4; */
   background: linear-gradient(0deg, #52647a 10%, #9db9c1 90%);
   border-radius: 50%;
 }
