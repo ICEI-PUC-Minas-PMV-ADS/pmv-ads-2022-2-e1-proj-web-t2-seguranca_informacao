@@ -16,7 +16,6 @@
       <nav>
         <img src="../images/back.png" alt="">
         <img src="../images/home.png" alt="">
-        <img src="../images/key.png" alt="">
         <img src="../images/padlock.png" alt="">
         <img src="../images/info.png" alt="">
       </nav>
@@ -25,31 +24,38 @@
     
     <main>
         <h1>Teste suas senhas</h1>
-        <p>Verifique a eficácia das suas senhas!
-    <div class="ladoEsquerdo">
-      <h3>Insira seus dados</h4>
+        <!-- <p>Verifique a eficácia das suas senhas! -->
+    <div id="lados">
+      <div class="ladoEsquerdo">
         <form>
-          <label>Nome</label>
-          <input type="text">
-          <label>Data de nascimento</label>
-          <input type="date">
-          <label>Telefone</label>
-          <input type="tel">
-        </form>
-        <br/>
-        <div class="insiraSenha">
-          <input type="text" placeholder="Insira a sua senha">
-          <p>Área falando a força da senha (barra ou texto)</p>
+            <h3>Insira seus dados (opcional)</h4>
+            <label>Nome</label>
+            <input type="text">
+            <label>Data de nascimento</label>
+            <input type="date">
+            <label>Telefone</label>
+            <input type="tel">
+          </form>
+          <br/>
+          <div class="insiraSenha">
+            <input type="text" placeholder="Insira a sua senha aqui">
+            <!-- <p>Área falando a força da senha (barra ou texto)</p> -->
+          </div>
+          <div class="container">
+            <div class="progress-bar"></div>
+          </div>
         </div>
+        <div class="ladoDireito">
         <div class="retorno">
-          <h3>Texto retornado</h3>
-          <p>Texto retornado</p>
-          <p>Retorno API</p>
+          <h3>É hora de trocar a sua senha!</h3>
+          <p>Ela pode ser decifrada rapidamente!</p>
+          <p>Sua senha apareceu 342 vezes no banco de dados de senhas vazadas do haveibeenpwned.com</p>
         </div>
-    </div>
-    <div class="ladoDireito">
-      <img src="../images/padlock.png" alt="">
-      <p>Que tal usar nosso gerador de senhas?</p>
+        <div id="gerador">
+          <img src="../images/generator.png" alt="">
+          <p>Que tal usar nosso gerador de senhas?</p>
+        </div>
+      </div>
     </div>
 
   </main>
