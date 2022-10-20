@@ -50,6 +50,8 @@ main{
   line-height: 25px;
 
   position: relative;
+  box-shadow: 13px 13px 45px -1px rgba(99,99,99,1);
+
 }
 
 .quadro h2{
