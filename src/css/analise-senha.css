@@ -74,7 +74,6 @@ p{
   display: flex;
   gap: 80px;
   transition: transform 200ms;
-  margin-bottom: 55px;
 }
 
 .quadro1{
@@ -238,6 +237,10 @@ margin: 20px 0;
 min-height: 45px;
 border: 1px solid #F9F9F9;
 border-radius: 8px;
+}
+
+hr{
+  margin-top: 55px;
 }
 
 footer{
