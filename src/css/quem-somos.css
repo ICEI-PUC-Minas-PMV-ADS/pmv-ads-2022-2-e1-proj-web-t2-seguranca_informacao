@@ -26,11 +26,17 @@ header{
 
 header img{
   width: 225px;
+  transition: all 200ms ease-in-out;
 }
 
 nav{
   display: flex;
   gap: 40px;
+  transition: transform 200ms;
+}
+
+nav img:hover {
+  transform: scale(1.2);
 }
 
 header nav img{
@@ -51,40 +57,29 @@ header nav img{
 
 main{
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
-  margin: 25px 0;
-  transition: all 500ms ease-in-out;
+  margin: 25px 100px;
 }
 
-.quadro{
-  width: 300px;
-  margin: 120px auto;
-  padding: 30px 30px 0;
-  min-height: 270px;
-  border: 2px solid #F9F9F9;
-
-  border-radius: 12px;
-  font-size: 16px;
-  text-align: justify;
-  line-height: 25px;
-
-  position: relative;
-  box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
-  transition: transform 200ms;
-
+main a{
+  text-decoration: none;
 }
 
-.quadro:hover {
-  transform: scale(1.1);
-  box-shadow: 13px 13px 45px -1px rgb(73, 73, 73);
-}
-
-.quadro h2{
-  font-size: 18px;
+main a:hover{
+  text-shadow: 0px 0px 23px #F9F9F9;
   font-weight: bold;
-  margin: 15px 0;
-  text-align: center;
+}
+
+h1{
+  margin: 40px 0 60px;
+}
+
+p{
+  text-align: justify;
+  font-size: 18px;
+  line-height: 35px;
+  margin-bottom: 40px;
 }
 
 footer{
