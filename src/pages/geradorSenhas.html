@@ -1,57 +1,77 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Criar senha segura</title>
+  <title>Quem somos</title>
+  <link rel="stylesheet" href="../css/gerador-senha.css">
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <header>
-    <nav>
+  <div class="page">
+    <header>
       <img src="../images/Logo_fundo_transparente.png" alt="Logo InfoSec">
-      <img src="../images/back.png" alt="">
-      <img src="../images/home.png" alt="">
-      <img src="../images/key.png" alt="">
-      <img src="../images/info.png" alt="">
-    </nav>
-  </header>
-  <hr>
-    <h1>Crie senhas seguras</h1>
-    <p>Crie senhas mais seguras, utilizando combinações de  8 a 32 caracteres incluindo números, letras maiúsculas ou minúsculas e caracteres especiais.</p>
+      <nav>
+        <img src="../images/back.png" alt="">
+        <img src="../images/home.png" alt="">
+        <img src="../images/key.png" alt="">
+        <img src="../images/padlock.png" alt="">
+        <img src="../images/info.png" alt="">
+      </nav>
+    </header>
+    <hr>
+    <main>
+      <h1>Crie senhas seguras</h1>
+      <p>Crie senhas mais seguras, utilizando combinações de  8 a 32 caracteres, incluindo números, letras maiúsculas, letras minúsculas e caracteres especiais.</p>
+      <div id="quadros">
+        <div class="quadro1">
+          <h2>Opções para gerar senha:</h2>
+            <div class="checkbox">
+              <input type="checkbox" id="scales" name="scales">
+              <label for="scales">Incluir números</label>
+            </div>
+            <div class="checkbox">
+              <input type="checkbox" id="scales" name="scales">
+              <label for="scales">Incluir letras minúsculas</label>
+            </div>
+            <div class="checkbox">
+              <input type="checkbox" id="scales" name="scales">
+              <label for="scales">Incluir letras maiúsculas</label>
+            </div>
+            <div class="checkbox">
+              <input type="checkbox" id="scales" name="scales">
+              <label for="scales">Incluir símbolos</label>
+            </div>
+          <h4>Números de caracteres</h4>
+          <div id="range">
+            <h3>8</h3>
+            <input type="range" min="8" max="32">
+            <h3>32</h3>
+          </div>
+          <button>GERAR SENHA</button>
+          <div class="retornoSenha"></div>
+        </div>
 
-  <main>
-    <div class="quadro1">
-      <input type="checkbox" id="scales" name="scales" checked>
-      <label for="scales">Incluir números</label>
-      <input type="checkbox" id="scales" name="scales" checked>
-      <label for="scales">Incluir letras minúsculas</label>
-      <input type="checkbox" id="scales" name="scales" checked>
-      <label for="scales">Incluir letras maiúsculas</label>
-      <input type="checkbox" id="scales" name="scales" checked>
-      <label for="scales">Incluir símbolos</label>
-      <p>Números de caracteres</p>
-      <input type="range" min="8" max="32">
-      <button>GERAR SENHA</button>
-      <div class="retornoSenha">Senha aparece aqui</div>
-    </div>
-
-    <div class="quadro2">
-      <h2>Senhas fortes devem ter:</h2>
-      <ul>
-        <li>Números</li>
-        <li>Letras minúsculas</li>
-        <li>Letras maiúsculas</li>
-        <li>Símbolos, como @ $ & ! > *</li>
-        <li>15 ou mais caracteres</li>
-        <li>Sua <span>data de nascimento</span></li>
-        <li>Seu <span>nome</span> ou <span>nome de usuário</span></li>
-        <li>Padrões de teclado, como <span>12345678</span>, <span>asdfghjkl</span> ou <span>qwerty</span></li>
-      </ul>
-    </div>
-  </main>
-  <footer>
-    <a href="#">Quem somos</a>
-    <p>Todos os direitos reservados</p>
-  </footer>
+        <div class="quadro2">
+          <h2>Senhas fortes devem ter:</h2>
+          <ul>
+            <li>Números</li>
+            <li>Letras minúsculas</li>
+            <li>Letras maiúsculas</li>
+            <li>Símbolos, como @ $ & ! > *</li>
+            <li>15 ou mais caracteres</li>
+            <li>Sua <s>data de nascimento</s></li>
+            <li>Seu <s>nome</s> ou <s>nome de usuário</s></li>
+            <li>Padrões de teclado, como <s>12345678</s>, <s>asdfghjkl</s> ou <s>qwerty</s></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+    <hr>
+    <footer>
+      <a href="#">Todos os direitos reservados</a>
+    </footer>
 </body>
 </html>
