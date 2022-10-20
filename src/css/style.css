@@ -26,19 +26,13 @@ header img{
 .imagem {
   position: absolute;
   max-width: 70px;
-  padding: 8px;
+  padding: 12px;
   left: 120px;
   top: -40px;
-  border: 2px solid rgb(169, 172, 192);
-  background-color: #edf0f4;
+  border: 2px solid #F9F9F9;
+  /* background-color: #edf0f4; */
+  background: linear-gradient(180deg, #52647a 10%, #9db9c1 90%);
   border-radius: 50%;
-}
-
-.line{
-  margin: 100px auto 0;
-  height: 0px;
-  border: 1px solid #F9F9F9;
-  background-color: #F9F9F9;
 }
 
 main{
@@ -92,6 +86,6 @@ footer a{
 }
 
 footer a:hover{
-  color: rgba(68,89,107,1);
+  color: #52647a;
   text-shadow: 0px 0px 23px #F9F9F9;
 }
