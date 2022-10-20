@@ -1,5 +1,5 @@
 # InfoSec
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Logo_fundo_branco.jpg?raw=true" width=300/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Logo_fundo_transparente.png?raw=true" width=300/>
 
 <br/>
 
