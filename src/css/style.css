@@ -18,8 +18,9 @@ body{
   min-height: 100vh;
 }
 
-img{
+header img{
   width: 250px;
+  filter: invert();
 }
 
 .line{
