@@ -23,6 +23,17 @@ header img{
   filter: invert();
 }
 
+.imagem {
+  position: absolute;
+  max-width: 70px;
+  padding: 8px;
+  left: 120px;
+  top: -40px;
+  border: 2px solid rgb(169, 172, 192);
+  background-color: #edf0f4;
+  border-radius: 50%;
+}
+
 .line{
   margin: 100px auto 0;
   height: 0px;
@@ -35,6 +46,7 @@ main{
   align-items: center;
   justify-content: space-between;
   margin: 25px 0;
+  transition: all 500ms ease-in-out;
 }
 
 .quadro{
@@ -51,7 +63,12 @@ main{
 
   position: relative;
   box-shadow: 13px 13px 45px -1px rgba(99,99,99,1);
+  transition: transform 200ms;
 
+}
+
+.quadro:hover {
+  transform: scale(1.1);
 }
 
 .quadro h2{
@@ -74,13 +91,7 @@ footer a{
   color: #F9F9F9;
 }
 
-.imagem {
-  position: absolute;
-  max-width: 70px;
-  padding: 8px;
-  left: 120px;
-  top: -40px;
-  /* border: 2px solid rgb(169, 172, 192); */
-  background-color: #edf0f4;
-  border-radius: 50%;
+footer a:hover{
+  color: rgba(68,89,107,1);
+  text-shadow: 0px 0px 23px #F9F9F9;
 }
