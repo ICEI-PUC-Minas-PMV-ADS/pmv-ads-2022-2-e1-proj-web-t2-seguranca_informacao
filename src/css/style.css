@@ -2,21 +2,38 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+  color: #F9F9F9;
+}
+
+.page {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 30px;
 }
 
 body{
-  padding: 40px;
+  background: rgb(68,89,107);
+  background: linear-gradient(180deg, rgba(68,89,107,1) 30%, rgba(141,141,141,1) 100%);
+  min-height: 100vh;
 }
 
 img{
   width: 250px;
 }
 
+.line{
+  margin: 100px auto 0;
+  height: 0px;
+  border: 1px solid #F9F9F9;
+  background-color: #F9F9F9;
+}
+
 main{
   display: flex;
-  gap: 25px;
-  width: 70%;
-  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+  margin: 25px 0;
 }
 
 .quadro{
@@ -24,9 +41,8 @@ main{
   margin: 120px auto;
   padding: 10px;
   min-height: 250px;
-  border: 1px solid rgb(191, 191, 191);
-  
-  font-family: "Roboto", sans-serif;
+  border: 2px solid #F9F9F9;
+
   border-radius: 12px;
   font-size: 16px;
   text-align: center;
@@ -34,7 +50,8 @@ main{
 }
 
 .quadro h2{
-  font-size: 15px;
+  font-size: 18px;
+  font-weight: bold;
   margin: 15px 0;
 }
 
@@ -43,9 +60,10 @@ footer{
   width: 500px;
   margin: 0 auto;
   justify-content: space-around;
+  padding-top: 15px;
 }
 
 footer a{
   text-decoration: none;
-  color: black;
+  color: #F9F9F9;
 }
