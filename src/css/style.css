@@ -36,6 +36,41 @@ main{
 .quadro h2{
   font-size: 15px;
   margin: 15px 0;
+  padding-top: 30px;
+}
+
+.key {
+  max-width: 60px;
+  padding: 8px;
+  position: absolute;
+  left: 340px;
+  top: 200px;
+  border: 2px solid rgb(169, 172, 192);
+  background-color: rgb(169, 172, 192);
+  border-radius: 40%;
+}
+
+.padlock {
+  max-width: 60px;
+  padding: 10px;
+  position: absolute;
+  left: 648px;
+  top: 200px;
+  border: 2px solid rgb(169, 172, 192);
+  background-color: rgb(169, 172, 192);
+  border-radius: 40%;
+
+}
+
+.info {
+  max-width: 55px;
+  padding: 8px;
+  position: absolute;
+  left: 953px;
+  top: 200px;
+  border: 2px solid rgb(169, 172, 192);
+  background-color: rgb(169, 172, 192);
+  border-radius: 40%;
 }
 
 footer{
