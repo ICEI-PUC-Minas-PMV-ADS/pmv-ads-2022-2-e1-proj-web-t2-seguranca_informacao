@@ -20,7 +20,14 @@ body{
 
 header img{
   width: 225px;
-  filter: invert();
+}
+
+header img:nth-child(1){
+  width: 225px;
+}
+
+header nav img{
+  width: 225px;
 }
 
 .imagem {
