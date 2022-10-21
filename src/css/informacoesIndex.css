@@ -1,0 +1,219 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+  color: #F9F9F9;
+}
+
+.page {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+body{
+  background: rgb(68,89,107);
+  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  min-height: 100vh;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header img{
+  width: 225px;
+  transition: all 200ms ease-in-out;
+}
+
+nav{
+  display: flex;
+  gap: 40px;
+  transition: transform 200ms;
+}
+
+nav img:hover {
+  transform: scale(1.2);
+}
+
+header nav img{
+  width: 40px;
+}
+
+.imagem {
+  position: absolute;
+  max-width: 70px;
+  padding: 12px;
+  left: 120px;
+  top: -40px;
+  border: 2px solid #F9F9F9;
+  background: linear-gradient(0deg, #52647a 10%, #9db9c1 90%);
+  border-radius: 50%;
+}
+
+main{
+  margin: 25px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+
+main a{
+  text-decoration: none;
+}
+
+main a:hover{
+  text-shadow: 0px 0px 23px #F9F9F9;
+  font-weight: bold;
+}
+
+h1{
+  margin: 40px 0 40px;
+}
+
+p{
+  text-align: justify;
+  font-size: 18px;
+  line-height: 35px;
+  margin-bottom: 40px;
+}
+
+footer{
+  display: flex;
+  width: 500px;
+  margin: 0 auto;
+  justify-content: space-around;
+  padding-top: 15px;
+}
+
+footer a{
+  text-decoration: none;
+  color: #F9F9F9;
+}
+
+footer a:hover{
+  /* color: #52647a; */
+  text-shadow: 0px 0px 23px #F9F9F9;
+  font-weight: bold;
+}
+
+
+.icon-cards {
+  position: relative;
+	width: 60vw;
+	height: 40vw;
+  max-width: 380px;
+  max-height: 250px;
+  margin: 50px 0 80px;
+  color: white;
+	perspective: 1000px;
+  transform-origin: center;
+}
+
+/* This is the element that rotates with the animation */
+
+.icon-cards__content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-origin: center;
+  transform-style: preserve-3d;
+  transform: translateZ(-30vw) rotateY(0);
+  animation: carousel 10s infinite cubic-bezier(0.77, 0, 0.175, 1) forwards;
+}
+
+/* Individual cards */
+
+.icon-cards__item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 60vw;
+  height: 40vw;
+  max-width: 380px;
+  max-height: 250px;
+  box-shadow: 0 5px 20px rgba(0,0,0,.1);
+  border-radius: 8px;
+  transform-origin: center;
+}
+
+.icon-cards__item{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #F9F9F9;
+  font-size: 16px;
+  text-align: justify;
+  line-height: 25px;
+}
+
+.icon-cards__item:nth-child(1) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(0) translateZ(35vw);
+}
+
+.icon-cards__item:nth-child(2) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(40deg) translateZ(35vw);
+}
+
+.icon-cards__item:nth-child(3) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(80deg) translateZ(35vw);
+}
+
+.icon-cards__item:nth-child(4) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(120deg) translateZ(35vw);
+}
+
+.icon-cards__item:nth-child(5) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(160deg) translateZ(35vw);
+}
+  
+.icon-cards__item:nth-child(6) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(200deg) translateZ(35vw);
+}
+  
+.icon-cards__item:nth-child(7) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(240deg) translateZ(35vw);
+}
+  
+.icon-cards__item:nth-child(8) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(280deg) translateZ(35vw);
+}
+  
+.icon-cards__item:nth-child(9) {
+  background: rgb(68,89,107);
+  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  transform: rotateY(320deg) translateZ(35vw);
+}   
+
+/* Animação do carrossel */
+
+@keyframes carousel {
+	0%,  17.5%  { transform: translateZ(-35vw) rotateY(0); }
+	27.5%, 45%  { transform: translateZ(-35vw) rotateY(-120deg); }
+	55%, 72.5%  { transform: translateZ(-35vw) rotateY(-240deg); }
+	82.5%, 100% { transform: translateZ(-35vw) rotateY(-360deg); }
+}
+
