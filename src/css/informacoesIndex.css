@@ -101,7 +101,6 @@ footer a:hover{
   font-weight: bold;
 }
 
-
 .carrossel {
   position: relative;
 	width: 60vw;
@@ -113,8 +112,6 @@ footer a:hover{
 	perspective: 1000px;
   transform-origin: center;
 }
-
-/* This is the element that rotates with the animation */
 
 .carrossel_informacoes {
   position: absolute;
@@ -128,10 +125,6 @@ footer a:hover{
 
 .carrossel_informacao {
   position: absolute;
-  /* top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0; */
   width: 60vw;
   height: 40vw;
   max-width: 380px;
@@ -149,9 +142,6 @@ footer a:hover{
   align-items: center;
   justify-content: center;
   border: 2px solid #F9F9F9;
-  /* font-size: 16px;
-  text-align: justify;
-  line-height: 25px; */
 }
 
 .carrossel_informacao:nth-child(1) {
@@ -207,8 +197,6 @@ footer a:hover{
   background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
   transform: rotateY(320deg) translateZ(35vw);
 }   
-
-/* Animação do carrossel */
 
 @keyframes carrossel {
 
