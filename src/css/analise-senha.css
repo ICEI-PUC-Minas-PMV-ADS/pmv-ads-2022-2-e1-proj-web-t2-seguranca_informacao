@@ -88,7 +88,7 @@ form input{
 
 .insiraSenha input{
   width: 100%;
-  color: #F9F9F9;
+  color: rgba(68,89,107,1);
   font-size: 18px;
   text-align: center;
   padding: 5px 0;
@@ -104,6 +104,8 @@ form input{
   color: rgba(68,89,107,1);
   opacity: 1;
   font-size: 18px;
+  font-weight: bold;
+  text-shadow: 0px 0px 15px rgb(233, 226, 22);
 }
 
 /* .container {
