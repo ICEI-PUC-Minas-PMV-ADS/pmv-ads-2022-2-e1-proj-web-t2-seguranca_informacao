@@ -5,6 +5,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="../Javascript/geradorSenha.js" defer></script>
   <title>Gerador de senhas</title>
   <link rel="stylesheet" href="../css/gerador-senha.css">
   <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
@@ -22,36 +23,40 @@
     </header>
     <hr>
     <main>
-      <h1>Crie senhas seguras</h1>
+      <h1>Crie Senhas Seguras</h1>
       <p>Crie senhas mais seguras, utilizando combinações de  8 a 32 caracteres, incluindo números, letras maiúsculas, letras minúsculas e caracteres especiais.</p>
-      <div id="quadros">
-        <div class="quadro1">
-          <h2>Opções para gerar senha:</h2>
-            <div class="checkbox">
-              <input type="checkbox" id="scales" name="scales">
-              <label for="scales">Incluir números</label>
+      <div class="quadros">
+      <div class="quadro1" id="passwordGeneratorForm">
+        <h1 class="scales"> Opções de Senha</h1>
+        <form id="passwordGeneratorForm">
+            <label for="">Numero de Caracteres</label>
+            <div class="sliderCaixa">
+                <input type="range" min="8" max="32" value="10"
+                id="characterAmountRange">
+                <input class="inputClass" type="number" min="8" max="32" value="10" 
+                id="characterAmountNumber">
             </div>
-            <div class="checkbox">
-              <input type="checkbox" id="scales" name="scales">
-              <label for="scales">Incluir letras minúsculas</label>
+            <div class="diegoCheck">
+            <input type="checkbox" id="includeUppercase">
+            <label for="includeUppercase">Include Uppercase</label>
             </div>
-            <div class="checkbox">
-              <input type="checkbox" id="scales" name="scales">
-              <label for="scales">Incluir letras maiúsculas</label>
+
+            <div class="diegoCheck">
+            <input type="checkbox" id="includeNumbers">
+            <label for="includeNumbers">Include Numbers</label>
             </div>
-            <div class="checkbox">
-              <input type="checkbox" id="scales" name="scales">
-              <label for="scales">Incluir símbolos</label>
+            
+            <div class="diegoCheck">
+            <input type="checkbox" id="includeSymbols">
+            <label for="includeSymbols">Include Symbols</label>
             </div>
-          <h4>Números de caracteres</h4>
-          <div id="range">
-            <h3>8</h3>
-            <input type="range" min="8" max="32">
-            <h3>32</h3>
+    
+            <div class="funcao">
+            <button type="submit">Generate Password</button>
+            <h3 class="retornoSenha" id="passwordDisplay">password</h3>
           </div>
-          <button>GERAR SENHA</button>
-          <div class="retornoSenha"></div>
-        </div>
+          </div>
+         </form>
 
         <div class="quadro2">
           <h2>Senhas fortes devem ter:</h2>
@@ -67,6 +72,8 @@
           </ul>
         </div>
       </div>
+    </div>
+  </div>
     </main>
     <hr>
     <footer>
