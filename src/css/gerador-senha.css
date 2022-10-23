@@ -64,17 +64,17 @@ h1{
 }
 
 p{
+  width: 840px;
   text-align: justify;
   font-size: 18px;
   line-height: 35px;
   margin-bottom: 40px;
 }
 
-.diegoCheck{
+.checkboxOptions{
   display: flex;
   gap: 15px;
   align-items: center;
-  padding-top: 10px;
 }
 
 .quadros{
@@ -84,7 +84,7 @@ p{
   margin-bottom: 55px;
 }
 
-.quadro1{
+.quadroEsquerda{
   display: flex;
   flex-direction: column;
 
@@ -101,54 +101,42 @@ p{
   box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
 }
 
-.quadro2{
-  display: flex;
-  flex-direction: column;
-
-  width: 380px;
-  margin: 0 auto;
-  padding: 20px 40px 0;
-  min-height: 380px;
-  border: 2px solid #F9F9F9;
-
-  border-radius: 12px;
-  font-size: 18px;
-  line-height: 45px;
-
-  box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
+.quadroEsquerda h2{
+  padding-bottom: 25px;
+  font-size: 24px;
+  text-align: center;
 }
 
-.quadro1 h2, .quadro2 h2{
+.quadroDireita h2{
   padding-bottom: 15px;
   font-size: 24px;
+  text-align: center;
 }
 
-.quadro1 p{
-  padding: 15px 0;
-}
-
-.checkbox{
+/* .checkbox{
   display: flex;
   gap: 15px;
   align-items: center;
   padding-top: 10px;
+} */
+
+.sliderCaixa{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 15px 0;
 }
 
 .inputClass{
-  height: 1.5rem;
-  width: 2rem;
   display: flex;
   align-items: center;
-  color: #000000;
-}
-
-h4{
-  padding: 10px 0;
-}
-
-#range{
-  display: flex;
-  align-items: center;
+  height: 25px;
+  width: 50px;
+  color: #3b4754;
+  border-radius: 3px;
+  font-weight: bold;
+  text-align: center;
+  border-color: transparent;
 }
 
 input[type=range] {
@@ -163,12 +151,12 @@ input[type=range]::-webkit-slider-runnable-track {
   width: 80%;
   height: 8.4px;
   cursor: pointer;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
   background: #F9F9F9;
   border-radius: 2px;
 }
 input[type=range]::-webkit-slider-thumb {
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
   height: 36px;
   width: 12px;
   border-radius: 3px;
@@ -184,12 +172,12 @@ input[type=range]::-moz-range-track {
   width: 80%;
   height: 8.4px;
   cursor: pointer;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
   background: #F9F9F9;
   border-radius: 2px;
 }
 input[type=range]::-moz-range-thumb {
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
   height: 36px;
   width: 12px;
   border-radius: 3px;
@@ -208,15 +196,15 @@ input[type=range]::-ms-track {
 input[type=range]::-ms-fill-lower {
   background: #F9F9F9;
   border-radius: 2.6px;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
 }
 input[type=range]::-ms-fill-upper {
   background: #F9F9F9;
   border-radius: 2.6px;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
 }
 input[type=range]::-ms-thumb {
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
   height: 36px;
   width: 12px;
   border-radius: 3px;
@@ -246,23 +234,36 @@ button{
 
 button:hover{
   background: #03833c;
-}
-
-.sliderCaixa{
-  display: flex;
-  align-items: center;
+  box-shadow: 4px 4px 15px -1px rgb(91, 91, 91);
 }
 
 .retornoSenha{
-width: 20rem;
-text-align: center;
-padding: 5px 0;
-margin: 20px 0;
-min-height: 45px;
-border: 1px solid #F9F9F9;
-border-radius: 8px;
-align-items: center;
-word-break: break-all;
+  width: 20rem;
+  font-size: 16px;
+  text-align: center;
+  padding: 5px;
+  margin: 20px 0;
+  min-height: 45px;
+  border: 1px solid #F9F9F9;
+  border-radius: 8px;
+  word-break: break-all;
+  }
+
+.quadroDireita{
+  display: flex;
+  flex-direction: column;
+
+  width: 380px;
+  margin: 0 auto;
+  padding: 18px 40px 0;
+  min-height: 380px;
+  border: 2px solid #F9F9F9;
+
+  border-radius: 12px;
+  font-size: 18px;
+  line-height: 38px;
+
+  box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
 }
 
 footer{
