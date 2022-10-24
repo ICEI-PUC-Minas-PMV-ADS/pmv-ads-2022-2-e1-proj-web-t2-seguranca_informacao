@@ -71,6 +71,10 @@ main{
   text-align: center;
 }
 
+.quadro_a {
+  text-decoration: none;
+}
+
 footer{
   display: flex;
   width: 500px;
