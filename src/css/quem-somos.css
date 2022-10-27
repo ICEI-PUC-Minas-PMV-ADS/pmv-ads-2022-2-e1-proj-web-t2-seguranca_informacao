@@ -58,8 +58,7 @@ header nav img{
 main{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin: 25px 100px 40px;
+  margin: 25px 100px 0;
 }
 
 main a{
@@ -74,12 +73,12 @@ p{
   text-align: justify;
   font-size: 18px;
   line-height: 35px;
-  margin-bottom: 40px;
 }
 
 #pessoas{
   display: flex;
-  gap: 50px;
+  margin: 60px auto;
+  gap: 40px;
 }
 
 .pessoa{
