@@ -67,10 +67,11 @@ main a{
 
 h1{
   margin: 40px 0 60px;
+  text-align: center;
 }
 
 p{
-  text-align: justify;
+  text-align: center;
   font-size: 18px;
   line-height: 35px;
 }
