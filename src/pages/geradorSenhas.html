@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -8,12 +9,15 @@
   <script src="../Javascript/geradorSenha.js" defer></script>
   <title>Gerador de senhas</title>
   <link rel="stylesheet" href="../css/gerador-senha.css">
-  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap"
+    rel="stylesheet">
 </head>
+
 <body>
   <div class="page">
     <header>
-      <a class="imagemLogo" href="../../index.html"><img src="../images/Logo_fundo_transparente.png" alt="Logo InfoSec"></a>
+      <a class="imagemLogo" href="../../index.html"><img src="../images/Logo_fundo_transparente.png"
+          alt="Logo InfoSec"></a>
       <nav>
         <a href="javascript:history.back()"><img src="../images/back.png" alt=""></a>
         <a href="../../index.html"><img src="../images/home.png" alt=""></a>
@@ -24,37 +28,36 @@
     <hr>
     <main>
       <h1>Crie Senhas Seguras</h1>
-      <p>Crie senhas mais seguras, utilizando combinações de  8 a 32 caracteres, incluindo números, letras maiúsculas e minúsculas e caracteres especiais.</p>
+      <p>Crie senhas mais seguras, utilizando combinações de 8 a 32 caracteres, incluindo números, letras maiúsculas e
+        minúsculas e caracteres especiais.</p>
       <div class="quadros">
         <div class="quadroEsquerda" id="passwordGeneratorForm">
           <h2>Opções para gerar senha</h2>
           <form id="passwordGeneratorForm">
-              <label for="">Numero de Caracteres:</label>
-              <div class="sliderCaixa">
-                  <input type="range" min="8" max="32" value="16"
-                  id="characterAmountRange">
-                  <input class="inputClass" type="number" min="8" max="32" value="16" 
-                  id="characterAmountNumber">
-              </div>
-              <div class="checkboxOptions">
-                <input type="checkbox" id="includeUppercase">
-                <label for="includeUppercase">Incluir letras maiúsculas</label>
-              </div>
+            <label for="">Numero de Caracteres:</label>
+            <div class="sliderCaixa">
+              <input type="range" min="8" max="32" value="16" id="characterAmountRange">
+              <input class="inputClass" type="number" min="8" max="32" value="16" id="characterAmountNumber">
+            </div>
+            <div class="checkboxOptions">
+              <input type="checkbox" id="includeUppercase">
+              <label for="includeUppercase">Incluir letras maiúsculas</label>
+            </div>
 
-              <div class="checkboxOptions">
-                <input type="checkbox" id="includeNumbers">
-                <label for="includeNumbers">Incluir números</label>
-              </div>
-              
-              <div class="checkboxOptions">
-                <input type="checkbox" id="includeSymbols">
-                <label for="includeSymbols">Incluir símbolos</label>
-              </div>
-      
-              <div class="funcao">
-                <button type="submit">GERAR SENHA</button>
-                <h3 class="retornoSenha" id="passwordDisplay"></h3>
-              </div>
+            <div class="checkboxOptions">
+              <input type="checkbox" id="includeNumbers">
+              <label for="includeNumbers">Incluir números</label>
+            </div>
+
+            <div class="checkboxOptions">
+              <input type="checkbox" id="includeSymbols">
+              <label for="includeSymbols">Incluir símbolos</label>
+            </div>
+
+            <div class="funcao">
+              <button type="submit">GERAR SENHA</button>
+              <h3 class="retornoSenha" id="passwordDisplay"></h3>
+            </div>
           </form>
         </div>
 
@@ -80,4 +83,5 @@
     <a href="#">Todos os direitos reservados</a>
   </footer>
 </body>
+
 </html>
