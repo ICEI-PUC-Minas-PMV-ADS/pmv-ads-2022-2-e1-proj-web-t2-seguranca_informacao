@@ -120,6 +120,7 @@ width: 600px;
   main{
     justify-content: flex-start;
     width: 400px;
+    padding: 0 0;
   }
 
   header{
