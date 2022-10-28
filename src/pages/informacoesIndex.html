@@ -112,5 +112,12 @@
     <a href="quemSomos.html">Quem somos</a>
     <a href="#">Todos os direitos reservados</a>
   </footer>
+  <script>
+     if (document.documentElement.clientWidth < 480) { 
+    document.querySelector("meta[name=viewport]").setAttribute(
+          'content', 
+          'width=device-width, initial-scale=0.9, maximum-scale=1.0, user-scalable=0');
+      }
+  </script>
 </body>
 </html>
