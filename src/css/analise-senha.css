@@ -6,22 +6,25 @@
   color: #F9F9F9;
 }
 
+body{
+  background: rgb(68,89,107);
+  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
 .page {
   width: 1200px;
   margin: 0 auto;
   padding-top: 30px;
 }
 
-body{
-  background: rgb(68,89,107);
-  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
-  min-height: 100vh;
-}
-
 header{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 0 20px;
 }
 
 header img{

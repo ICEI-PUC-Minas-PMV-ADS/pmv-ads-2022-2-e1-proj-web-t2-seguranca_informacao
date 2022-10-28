@@ -6,16 +6,17 @@
   color: #F9F9F9;
 }
 
-.page {
-  width: 1200px;
-  margin: auto auto;
-  padding-top: 30px;
-}
-
 body{
   background: rgb(68,89,107);
   background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
   min-height: 100vh;
+  display: flex;
+}
+
+.page {
+  width: 1200px;
+  margin: auto auto;
+  padding-top: 30px;
 }
 
 header img{
