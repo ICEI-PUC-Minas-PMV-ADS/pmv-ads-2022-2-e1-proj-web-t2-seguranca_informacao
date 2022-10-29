@@ -27,7 +27,7 @@ Este projeto tem como objetivo auxiliar os usuários na criação de senhas mais
 
 ## Instruções de utilização
 
-> Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para utilizar a aplicação, basta acessar o endereço eletrônico a seguir: [InfoSec](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
 # Documentação
 
@@ -47,7 +47,7 @@ Este projeto tem como objetivo auxiliar os usuários na criação de senhas mais
 
 # Hospedagem
 
-> Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+[InfoSec](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
 # Armazenamento do Código-Fonte
 
