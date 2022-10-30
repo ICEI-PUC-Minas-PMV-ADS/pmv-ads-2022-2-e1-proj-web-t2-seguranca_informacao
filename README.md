@@ -1,7 +1,6 @@
 # InfoSec
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Logo_fundo_branco.PNG?raw=true" width=200/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Logo_fundo_branco.PNG?raw=true" width=200/>  
 
-<br/>
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - PUC MINAS`
 
@@ -18,7 +17,9 @@ Este projeto tem como objetivo auxiliar os usuários na criação de senhas mais
 * Flávio Martins da Cruz 
 * Diego Ruas Toledo 
 * Lucas Delmasquio Silva 
-* Mateus Borges Martins da Silva
+* Mateus Borges Martins da Silva  
+
+Nossos perfis no LinkedIn estão disponíveis no [quem somos](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/src/pages/quemSomos.html) do projeto.
 
 
 ## Orientadora
@@ -27,7 +28,7 @@ Este projeto tem como objetivo auxiliar os usuários na criação de senhas mais
 
 ## Instruções de utilização
 
-Para utilizar a aplicação, basta acessar o endereço eletrônico a seguir: [InfoSec](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
+Para utilizar a aplicação, basta acessar o endereço eletrônico [InfoSec](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
 # Documentação
 
@@ -47,7 +48,7 @@ Para utilizar a aplicação, basta acessar o endereço eletrônico a seguir: [In
 
 # Hospedagem
 
-[InfoSec](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
+> [https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
 # Armazenamento do Código-Fonte
 
