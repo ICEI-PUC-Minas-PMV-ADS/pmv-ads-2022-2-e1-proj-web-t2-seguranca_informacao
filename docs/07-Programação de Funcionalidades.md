@@ -54,7 +54,7 @@ Também é possível definir o tamanho da senha, de 8 a 32 caracteres.
 A tela exibe algumas informações com o intuito de orientar sobre a importância de se utilizar senhas fortes, além de outras informações gerais sobre segurança da informação.  
 
 ### 3.1 Requisitos atendidos:
-* RF-04 (em fase de estudos em artigos e sites diversos)
+* RF-04  
 
 ### 3.2 Artefatos da funcionalidade:
 
