@@ -66,6 +66,9 @@ main{
 
 main a{
   text-decoration: none;
+  align-self: flex-start;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
 main a:hover{
