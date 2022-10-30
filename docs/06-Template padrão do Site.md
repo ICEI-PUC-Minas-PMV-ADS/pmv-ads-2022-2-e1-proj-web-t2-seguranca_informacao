@@ -27,4 +27,12 @@ Segue a legenda com a definição da função de cada ícone do menu de navegaç
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Legenda.PNG?raw=true" width=600/> 
 
-## Fontes utilizadas  
+## Fonte utilizada  
+
+Para todo o projeto foi utilizada a fonte **Mulish**, incorporada ao CSS diretamente pelo Google Fonts.  
+
+* Mulish Regular 400  
+
+
+
+* Mulish Bold 700  
