@@ -30,9 +30,14 @@ Segue a legenda com a definição da função de cada ícone do menu de navegaç
 ## Fonte utilizada  
 
 Para todo o projeto foi utilizada a fonte **Mulish**, incorporada ao CSS diretamente pelo Google Fonts.  
+Seguem amostras de usos dessa fonte, aplicadas em cor clara e fundo escuro:
 
 * Mulish Regular 400  
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/MulishRegular400.PNG?raw=true"/> 
 
+<br/>
 
 * Mulish Bold 700  
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/MulishBold700.PNG?raw=true"/> 
