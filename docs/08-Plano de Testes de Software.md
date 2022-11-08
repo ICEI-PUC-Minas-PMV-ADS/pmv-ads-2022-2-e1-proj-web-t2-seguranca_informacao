@@ -1,19 +1,43 @@
 # Plano de Testes de Software
+Os requisitos para realização dos testes de software são:
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+- Site publicado na Internet
+- Navegador da Internet - Chrome, Firefox ou Edge
+- Conectividade de Internet para acesso às plataformas (APISs)
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+|     Caso de teste     | T-01 - Formulário com informações                                                                              |
+| :-------------------: | :------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-03 - Formulário com informações básicas do usuário (nome, data de nascimento, telefone) .                   |
+|   Objetivo do Teste   | Verificar funcionalidade do formulário que trabalha em conjunto com a aplicação de avaliação de senhas.        |
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Informar os dados solicitados no formulário.                                       |
+|  Critérios de Êxito   | O formulário receber os dados informados pelo usuário afim de proporcionar uma avaliação da senha mais eficaz. |
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|     Caso de teste     | T-02 - Avaliação de senhas                                                                    |
+| :-------------------: | :-------------------------------------------------------------------------------------------  |
+| Requisitos Associados | RF-01 -	Avaliar a qualidade das senhas informadas pelos usuários.                             |
+|   Objetivo do Teste   | Verificar se a aplicação faz a avaliação de força correta, da senha informada pelo usuário.   | 
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Informar os dados básicos (opcional) <br> 5) Digitar a sua senha       |
+|  Critérios de Êxito   | O usuário deve receber uma avaliação sobre a força de sua senha.                              |
+
+|     Caso de teste     | T-03 - Gerador de senhas                                                   |
+| :-------------------: | :------------------------------------------------------------------------- |
+| Requisitos Associados | RF-02 - Criar senhas seguras para os usuários.                             |
+|   Objetivo do Teste   | Verificar se o gerador de senhas funciona corretamente.                    |
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Criar senha segura" <br> 4) Utilizar o gerador de senhas com todas as suas ferramentas (nº de caracteres, caracteres especiais, números e letras maíusculas).                                                                                  |
+|  Critérios de Êxito   | As senhas geradas devem atender as opções que foram marcadas pelo usuário. |
+
+|     Caso de teste     | T-04 - Portal de notícias                                                                                         |
+| :-------------------: | :---------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-04 - Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet. | 
+|   Objetivo do Teste   | Verificar a navegabilidade entre as páginas e o acesso correto em cada página de notícia.                         |
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Mais sobre segurança da informação" <br> 4) Acessar cada uma das notícias disponíveis.                                |
+|  Critérios de Êxito   | Ao acessar o card da notícia, o usuário deverá ser levado à página correta.                                       |
+
+|     Caso de teste     | T-05 - Vazamento de senhas                                                                                            |
+| :-------------------: | :-------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-05 - Informar se a senha do usuário foi vazada.                                                                    |
+|   Objetivo do Teste   | Verificar se a aplicação informa corretamente ao usuário que senhas do mesmo padrão que a informada já foram vazadas. |
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Repetir o processo de análise de senha.                                                   |
+|  Critérios de Êxito   | Após fazer a análise da senha, a informação irá aparecer na tela.                                                     |
