@@ -1,19 +1,23 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Os requisitos para realização dos testes de software são:
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+- Site publicado na Internet
+- Navegador da Internet - Chrome, Firefox ou Edge
+- Conectividade de Internet para acesso às plataformas (APISs)
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|     Caso de teste     | T-01 - Avaliação de senhas                                                                    |
+| :-------------------: | :-------------------------------------------------------------------------------------------  |
+| Requisitos Associados | RF-01 -	Avaliar a qualidade das senhas informadas pelos usuários.                             |
+|   Objetivo do Teste   | Verificar se a aplicação faz a avaliação de força correta, da senha informada pelo usuário.   | 
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Informar os dados básicos (opcional) <br> 5) Digitar a sua senha       |
+|  Critérios de Êxito   | O usuário deve receber uma avaliação sobre a força de sua senha.                              |
+
+|     Caso de teste     | T-02 - Gerador de senhas                                                   |
+| :-------------------: | :------------------------------------------------------------------------- |
+| Requisitos Associados | RF-02 - Criar senhas seguras para os usuários.                             |
+|   Objetivo do Teste   | Verificar se o gerador de senhas funciona corretamente.                    |
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Criar senha segura" <br> 4) Utilizar o gerador de senhas com todas as suas ferramentas (nº de caracteres, caracteres especiais, números e letras maíusculas)                                                                                          |
+|  Critérios de Êxito   | As senhas geradas devem atender as opções que foram marcadas pelo usuário. |
