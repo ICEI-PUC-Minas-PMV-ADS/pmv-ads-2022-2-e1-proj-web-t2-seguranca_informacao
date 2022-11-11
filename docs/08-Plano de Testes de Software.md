@@ -7,12 +7,12 @@ Os requisitos para realização dos testes de software são:
 
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
-|     Caso de teste     | T-01 - Página Principal |
-| :-------------------: | :-------------------------------------------------------------------------------------------------------------------- |
+|     Caso de teste     | T-01 - Página Principal                                                                                                    |
+| :-------------------: | :------------------------------------------------------------------------------------------------------------------------- |
 | Requisitos Associados | RF-01 - Na página principal é apresentado as opções de serviços, análise de senhas, gerador de senhas e portal de noticias.|
-|   Objetivo do Teste   | Verificar se cada quadro é redirecionada ao serviço correto. |
-|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar cada um dos serviços.|
-|  Critérios de Êxito   | Cada um dos quadros deve redirecionar o usuário a sua página correta.|
+|   Objetivo do Teste   | Verificar se cada quadro é redirecionada ao serviço correto.                                                               |
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar cada um dos serviços.                                                                                                                |
+|  Critérios de Êxito   | Cada um dos quadros deve redirecionar o usuário a sua página correta.                                                      |
 
 |     Caso de teste     | T-02 - Formulário com informações                                                                              |
 | :-------------------: | :------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 | :-------------------: | :-------------------------------------------------------------------------------------------  |
 | Requisitos Associados | RF-02 -	Avaliar a qualidade das senhas informadas pelos usuários.                             |
 |   Objetivo do Teste   | Verificar se a aplicação faz a avaliação de força correta, da senha informada pelo usuário.   | 
-|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Informar os dados básicos (opcional) <br> 5) Digitar a sua senha       |
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Informar os dados básicos (opcional) <br> 5) Digitar a sua senha  |
 |  Critérios de Êxito   | O usuário deve receber uma avaliação sobre a força de sua senha.                              |
 
 |     Caso de teste     | T-04 - Gerador de senhas                                                   |
@@ -54,4 +54,11 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 | Requisitos Associados | RF-07 - Informar se a senha do usuário foi vazada.                                                                    |
 |   Objetivo do Teste   | Verificar se a aplicação informa corretamente ao usuário que senhas do mesmo padrão que a informada já foram vazadas. |
 |        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Repetir o processo de análise de senha.                                                   |
-|  Critérios de Êxito   | Após fazer a análise da senha, a informação irá aparecer na tela.  
+|  Critérios de Êxito   | Após fazer a análise da senha, a informação irá aparecer na tela.                                                     | 
+ 
+|     Caso de teste     | T-08 - Área de comentários                                                                                            |
+| :-------------------: | :-------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-08 - Formulário com espaço para interação com o usuário, comentários e sujestões.                                  |
+|   Objetivo do Teste   | Verificar funcionalidade da área de interação do usuário.                                                             |
+|        Passos         | 1) <span>DEFINIR LOCAL DA APLICAÇÃO</span>                                                                            |
+|  Critérios de Êxito   | <span>CONFIRMAR O ANTERIOR</span>                                                                                     |
