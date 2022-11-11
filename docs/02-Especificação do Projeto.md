@@ -42,11 +42,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01|Avaliar a qualidade das senhas informadas pelos usuários|<span style="color:red">Alta</span>|
-|RF-02|Criar senhas seguras para os usuários|<span style="color:red">Alta</span>|
-|RF-03|Formulário com informações básicas do usuário (nome, data de nascimento, telefone)|<span style="color:red">Alta</span>|
-|RF-04|Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet|<span style="color:orange">Média</span>|
-|RF-05|Informar se a senha do usuário foi vazada|<span style="color:#66ff33">Baixa</span>|
+|RF-01|Na página principal é apresentado as opções de serviços, análise de senhas, gerador de senhas e portal de noticias|<span style="color:red">Alta</span>|
+|RF-02|Avaliar a qualidade das senhas informadas pelos usuários|<span style="color:red">Alta</span>|
+|RF-03|Criar senhas seguras para os usuários|<span style="color:red">Alta</span>|
+|RF-04|Formulário com informações básicas do usuário (nome, data de nascimento, telefone)|<span style="color:red">Alta</span>|
+|RF-05|Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet|<span style="color:orange">Média</span>|
+|RF-06|Menu de navegação que permite a navegabilidade entre as páginas da aplicação|<span style="color:orange">Média</span>|
+|RF-07|Informar se a senha do usuário foi vazada|<span style="color:#66ff33">Baixa</span>|
+|RF-08|Formulário com espaço para interação com o usuário, comentários e sujestões|<span style="color:#66ff33">Baixa</span>|
 
 
 ### Requisitos não Funcionais
