@@ -1,5 +1,13 @@
 
+let senha_element_html = document.getElementById("senha")
+let senha = senha_element_html.value
+senha_element_html.addEventListener('keyup', analisarsenha)
+
 function analisarsenha() {
+    senha = senha_element_html.value
+    const nome = document.getElementById("nome").value
+    const dataNasc = document.getElementById("data").value
+    const telefone = document.getElementById("telefone").value
 
     const name = nome.toString()
     //document.getElementById("imprimeSenha").innerHTML = "Senha: " + senha
