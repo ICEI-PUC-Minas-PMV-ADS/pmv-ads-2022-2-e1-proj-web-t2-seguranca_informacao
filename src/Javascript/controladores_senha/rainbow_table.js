@@ -10005,4 +10005,16 @@ const rainbowtable = [
 'c2h5oh',
 'bubbles1',
 'brook',
+'bolsonaro',
+'lula',
+'cruzeiro',
+'atletico',
+'flamengo',
+'brasil',
+'palmeiras',
+'belo horizonte',
+'sao paulo',
+'rio de janeiro',
+  
+ 
 'brady'];
