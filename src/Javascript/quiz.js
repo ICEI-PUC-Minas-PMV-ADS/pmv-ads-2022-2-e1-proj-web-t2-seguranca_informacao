@@ -26,6 +26,19 @@ var quiz = {
 			"pontuacao": 0,
 			"status": ""
 		},
+		{
+			"id": 3,
+			"pergunta": "Pergunta 3",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Verdadeiro",
+			"pontuacao": 0,
+			"status": ""
+		},
 		
 	]
 }
