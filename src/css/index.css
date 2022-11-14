@@ -47,6 +47,7 @@ main{
   height: 290px;
   margin: 120px auto;
   padding: 35px 20px 0;
+  background: linear-gradient(180deg, rgba(68,89,107,0.7) 0%, rgba(141,141,141,0.7) 100%);
   border: 2px solid #F9F9F9;
 
   border-radius: 12px;
@@ -63,6 +64,7 @@ main{
 .quadro:hover {
   transform: scale(1.1);
   box-shadow: 13px 13px 45px -1px rgb(73, 73, 73);
+  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
 }
 
 .quadro h2{
