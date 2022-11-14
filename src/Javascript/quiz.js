@@ -9,7 +9,7 @@ var quiz = {
 					"b": "Falso"
 				}
 			],
-			"resposta": "Verdadeiro",
+			"resposta": "Falso",
 			"pontuacao": 0,
 			"status": ""
 		},
