@@ -15,14 +15,14 @@ var quiz = {
 		},
 		{
 			"id": 2,
-			"pergunta": "Pergunta 2",
+			"pergunta": "Em ataques de força bruta, invasão independerá do tamanho e da complexidade da senha, pois os criminosos sempre conseguirão identificar a senha em suas investidas.",
 			"opcoes": [
 				{
 					"a": "Verdadeiro",
 					"b": "Falso"
 				}
 			],
-			"resposta": "Verdadeiro",
+			"resposta": "Falso",
 			"pontuacao": 0,
 			"status": ""
 		},
