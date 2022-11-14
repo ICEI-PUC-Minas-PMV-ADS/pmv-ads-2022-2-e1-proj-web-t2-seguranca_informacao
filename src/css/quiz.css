@@ -105,7 +105,7 @@ p{
 .resposta-errada {
   font-style: normal;
   font-weight: bold;
-  color: #ffdd00;
+  color: #fbff00;
 }
 .resposta-correta {
   font-style: normal;
@@ -130,7 +130,7 @@ button{
   border: 0;
   background: #03833c;
   border-radius: 8px;
-  border: 1px solid #015a29;
+  /* border: 1px solid #015a29; */
 
   font-size: 14px;
   font-weight: bold;
