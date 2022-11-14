@@ -15,7 +15,7 @@ var quiz = {
 		},
 		{
 			"id": 2,
-			"pergunta": "Where is the certa place to insert a JavaScript?",
+			"pergunta": "Pergunta 2",
 			"opcoes": [
 				{
 					"a": "Verdadeiro",
@@ -75,7 +75,7 @@ var quizInfoSec = function () {
 
 	this.mostrarResultado = function (acertos) {
 		$("#resultado").addClass('resultado');
-		$("#resultado").html("<h1 class='linha-cabecalho'>Respostas corretas: " + acertos + ' de ' + totalQuestoes + "</h1>");
+		$("#resultado").html("<h2 class='linha-cabecalho'>Respostas corretas: " + acertos + ' de ' + totalQuestoes + "</h2>");
 		for (var contador = 0; contador < totalQuestoes; contador++) {
 			var res;
 			if (quiz.JS[contador].pontuacao == 0) {
@@ -84,7 +84,7 @@ var quizInfoSec = function () {
 				res ='</span><i class="resposta-correta">Acertou</i>';
 			}
 			$("#resultado").append(
-				'<div class="resultado-pergunta"><span>Pergunta ' + quiz.JS[contador].id + ':' + '</span> &nbsp;' + quiz.JS[contador].pergunta + '</div>' +
+				'<div class="resultado-pergunta"><span><b>Pergunta ' + quiz.JS[contador].id + ': </b>' + '</span> &nbsp;' + quiz.JS[contador].pergunta + '</div>' +
 				'<div><b>Gabarito: </b>' + quiz.JS[contador].resposta + '&nbsp;&nbsp;&nbsp;' + '( ' + res + ' )' + '</div>' +
 				'<div class="linha-separadora">' + '</div>'
 			);
