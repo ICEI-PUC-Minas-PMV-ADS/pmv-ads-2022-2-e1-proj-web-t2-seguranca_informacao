@@ -2,7 +2,7 @@ var quiz = {
 	"JS": [
 		{
 			"id": 1,
-			"pergunta": "Uma senha forte pode ser usada repetidas vezes em vários sites e sistemas, pois não haverá riscos de segurança.",
+			"pergunta": "Muitas pessoas ainda optam por repetir o uso da mesma senha em vários serviços. Caso essa senha seja considerada forte, essas pessoas nunca terão problemas de segurança.",
 			"opcoes": [
 				{
 					"a": "Verdadeiro",
