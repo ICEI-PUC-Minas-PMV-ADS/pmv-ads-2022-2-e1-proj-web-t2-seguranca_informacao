@@ -56,9 +56,9 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Repetir o processo de análise de senha.                                                   |
 |  Critérios de Êxito   | Após fazer a análise da senha, a informação irá aparecer na tela.                                                     | 
  
-|     Caso de teste     | T-08 - Área de comentários                                                                                            |
-| :-------------------: | :-------------------------------------------------------------------------------------------------------------------- |
-| Requisitos Associados | RF-08 - Formulário com espaço para interação com o usuário, comentários e sujestões.                                  |
-|   Objetivo do Teste   | Verificar funcionalidade da área de interação do usuário.                                                             |
-|        Passos         | 1) <span>DEFINIR LOCAL DA APLICAÇÃO</span>                                                                            |
-|  Critérios de Êxito   | <span>CONFIRMAR O ANTERIOR</span>                                                                                     |
+|     Caso de teste     | T-08 - Quiz                                                       |
+| :-------------------: | :---------------------------------------------------------------- |
+| Requisitos Associados | RF-08 - Quiz sobre a segurança da informação.                     |
+|   Objetivo do Teste   | Verificar a jogabilidade do quiz e as respostas de cada pergunta. |
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Quiz" <br> 4) Interagir com o jogo.                                   |
+|  Critérios de Êxito   | O usuário irá selecionar as respostas, e após responder todas as perguntas, a aplicação deverá mostrar ao usuário corretamente, os seus erros e acertos.                                                                                  |
