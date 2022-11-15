@@ -2,7 +2,7 @@ var quiz = {
 	"JS": [
 		{
 			"id": 1,
-			"pergunta": "Muitas pessoas ainda optam por repetir o uso da mesma senha em vários serviços. Caso essa senha seja considerada forte, essas pessoas nunca terão problemas de segurança.",
+			"pergunta": "Muitas pessoas ainda optam por repetir a mesma senha em vários serviços. Caso essa senha seja considerada forte, essas pessoas nunca terão problemas de segurança.",
 			"opcoes": [
 				{
 					"a": "Verdadeiro",
@@ -112,7 +112,7 @@ var quiz = {
 
 		{
 			"id": 9,
-			"pergunta": "Após acessar um website para o download de músicas da internet foi notado que o navegador internet passou a mostrar janelas pop-up com propagandas de forma infinita, ou seja, após o fechamento de uma janela, outra é apresentada em seguida de forma contínua. Esse efeito é característico do ataque do malware conhecido como worm.",
+			"pergunta": "Após acessar um website para o download de músicas da internet, foi notado que o navegador internet passou a mostrar janelas pop-up com propagandas de forma infinita, ou seja, após o fechamento de uma janela, outra é apresentada em seguida de forma contínua. Esse efeito é característico do ataque do malware conhecido como worm.",
 			"opcoes": [
 				{
 					"a": "Verdadeiro",
@@ -273,11 +273,6 @@ var quizInfoSec = function () {
 	}
 
 	this.verificarResposta = function (option) {
-		// var resposta = quiz.JS[this.questaoAtual].resposta;
-		// option = option.replace(/\</g, "&lt;")   //for <
-		// option = option.replace(/\>/g, "&gt;")   //for >
-		// option = option.replace(/"/g, "&quot;")
-
 		if (option == quiz.JS[this.questaoAtual].resposta) {
 			if (quiz.JS[this.questaoAtual].pontuacao == "") {
 				quiz.JS[this.questaoAtual].pontuacao = 1;
