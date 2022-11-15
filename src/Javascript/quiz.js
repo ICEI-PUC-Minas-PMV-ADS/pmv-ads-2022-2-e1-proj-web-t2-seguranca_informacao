@@ -270,6 +270,9 @@ var quizInfoSec = function () {
 				'<div class="linha-separadora">' + '</div>'
 			);
 		}
+		$("main").append(
+			'<h3><a href="#">Quero saber os detalhes das questões apresentadas</a></h3>'
+		);
 	}
 
 	this.verificarResposta = function (option) {
