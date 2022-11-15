@@ -137,6 +137,76 @@ var quiz = {
 			"pontuacao": 0,
 			"status": ""
 		},
+
+		{
+			"id": 11,
+			"pergunta": "Salvar senhas nos navegadores é uma boa prática de segurança.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Falso",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 12,
+			"pergunta": "A instalação de um antivírus e a ativação do firewall no computador pessoal são suficientes para garantir a segurança do computador contra os programas maliciosos. ",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Falso",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 13,
+			"pergunta": "Quando um titular de uma conta reutiliza as mesmas senhas (ou semelhantes) em vários sites, ele cria um efeito dominó no qual um único par de credenciais pode ser usado para violar vários aplicativos. Uma das recomendações é que não se deve anotar as senhas para evitar que outras pessoas tenham acesso a elas.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Verdadeiro",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 14,
+			"pergunta": "Atualmente, o uso de rede Wi-Fi pública não trás riscos de segurança aos usuários, pois os equipamentos modernos garantem que os dispositivos fiquem invisíveis para outros usuários da rede.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Falso",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 15,
+			"pergunta": "A verificação em duas etapas é um dos mecanismos mais eficazes para a proteção de credenciais. Habilitando esse serviço, o usuário tem que inserir outro fator para poder acessar um sistema, que pode ser biometria ou um código de uso único de tempo limitado. Isso reduz a chance de que um criminoso consiga se aproveitar de senhas vazadas ou advinhadas.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Verdadeiro",
+			"pontuacao": 0,
+			"status": ""
+		},
 		
 	]
 }
