@@ -1,4 +1,5 @@
 
+
 let senha_element_html = document.getElementById("senha")
 let senha = senha_element_html.value
 senha_element_html.addEventListener('keyup', analisarsenha)
@@ -92,11 +93,17 @@ function mostrarForcaSenha(forca) {
     //document.getElementById("imprimeForcaSenha").innerHTML = "Força: " + forca
     const classific_senha = document.getElementById("classificaSenha")
     if (forca < 30) {
-        classific_senha.innerHTML = "Fraca"
+        classific_senha.innerHTML = "<span style='color: #d0312d'>Fraca</span>";
+        forcaBarra.style.width = "33%";
+        document.getElementById("forcaBarra").style.background = "#d0312d";
     } else if (forca >= 30 && forca < 60) {
-        classific_senha.innerHTML = "Média"
+        classific_senha.innerHTML = "<span style='color: #FFD700'>Média</span>";
+        forcaBarra.style.width = "66%";
+        document.getElementById("forcaBarra").style.background = "#FFD700";
     } else if (forca >= 60 && forca < 70) {
-        classific_senha.innerHTML = "Forte"
+        classific_senha.innerHTML = "<span style='color: #00ec00'>Forte</span>";
+        forcaBarra.style.width = "100%";
+        document.getElementById("forcaBarra").style.background = "#00ec00"
     }
 }
 
