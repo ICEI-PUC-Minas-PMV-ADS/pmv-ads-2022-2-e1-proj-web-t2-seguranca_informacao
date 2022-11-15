@@ -15,7 +15,9 @@ function analisarsenha() {
     let forca_senha = 0
     const tamanho = senha.length
 
-    if (tamanho >= 4) {
+   if (tamanho === 0) {
+        document.location.reload(true)
+    }else if (tamanho >= 4) {
         if (tamanho <= 7) {
             forca_senha += 10
             console.log("senha curta")
