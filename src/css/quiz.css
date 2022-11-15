@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -12,27 +12,27 @@
   padding-top: 30px;
 }
 
-body{
-  background: rgb(68,89,107);
-  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+body {
+  background: rgb(68, 89, 107);
+  background: linear-gradient(180deg, rgba(68, 89, 107, 1) 0%, rgba(141, 141, 141, 1) 100%);
   min-height: 100vh;
   display: flex;
   align-items: center;
 }
 
-header{
+header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 20px;
 }
 
-header img{
+header img {
   width: 225px;
   transition: all 200ms ease-in-out;
 }
 
-nav{
+nav {
   display: flex;
   gap: 40px;
   transition: transform 200ms;
@@ -42,11 +42,11 @@ nav img:hover {
   transform: scale(1.2);
 }
 
-header nav img{
+header nav img {
   width: 40px;
 }
 
-main{
+main {
   margin: 25px 30px;
   /* display: flex;
   flex-direction: column;
@@ -62,7 +62,7 @@ main a:hover{
   text-shadow: 0px 0px 23px #F9F9F9;
 } */
 
-h1{
+h1 {
   margin: 40px 0 50px;
   text-align: center;
 }
@@ -72,7 +72,7 @@ h1{
   max-width: 195px;
 }
 
-.form-check-label{
+.form-check-label {
   display: flex;
   gap: 5px;
   align-items: center;
@@ -83,17 +83,17 @@ h1{
   padding: 10px;
   margin-bottom: 20px;
   cursor: pointer;
-  background: linear-gradient(0deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  background: linear-gradient(0deg, rgba(68, 89, 107, 1) 0%, rgba(141, 141, 141, 1) 100%);
   border: 1px solid #F9F9F9;
   border-radius: 5px;
 }
 
-.caixa-opcoes:hover{
-  background: linear-gradient(0deg, rgb(43, 62, 80) 0%, rgba(141,141,141,1) 100%);
+.caixa-opcoes:hover {
+  background: linear-gradient(0deg, rgb(43, 62, 80) 0%, rgba(141, 141, 141, 1) 100%);
   /* box-shadow: 4px 4px 15px -1px rgb(91, 91, 91); */
 }
 
-p{
+p {
   font-size: 18px;
   line-height: 30px;
 }
@@ -102,28 +102,32 @@ p{
   /* font-weight: bold; */
   margin-bottom: 10px;
 }
+
 .resposta-errada {
   font-style: normal;
   font-weight: bold;
   color: #fbff00;
 }
+
 .resposta-correta {
   font-style: normal;
   font-weight: bold;
   color: rgb(27, 255, 2);
 }
+
 .linha-separadora {
   border-bottom: 1px solid #ccc;
   padding-bottom: 25px;
   margin-bottom: 25px;
 }
+
 .linha-cabecalho {
   border-bottom: 1px solid #ccc;
   padding-bottom: 25px;
   margin-bottom: 25px;
 }
 
-button{
+button {
   margin: 0 0 15px;
   height: 40px;
   width: 5.6rem;
@@ -138,17 +142,31 @@ button{
   cursor: pointer;
 }
 
-button:hover{
+button:hover {
   background: #015a29;
   /* box-shadow: 4px 4px 15px -1px rgb(91, 91, 91); */
 }
 
-.qde-perguntas{
+.qde-perguntas {
   margin: 0 0 30px;
   /* text-align: right; */
 }
 
-footer{
+h3 a {
+  text-decoration: none;
+  color: #415e7e;
+  font-weight: bold;
+  text-shadow: 0px 0px 5px rgba(255, 255, 255, 1),
+    0px 0px 10px rgba(255, 255, 255, 1),
+    0px 0px 15px rgba(255, 255, 255, 1),
+    0px 0px 20px rgba(73, 255, 24, 1),
+    0px 0px 30px rgba(73, 255, 24, 1),
+    0px 0px 40px rgba(73, 255, 24, 1),
+    0px 0px 55px rgba(73, 255, 24, 1),
+    0px 0px 75px rgba(73, 255, 24, 1);
+}
+
+footer {
   display: flex;
   width: 500px;
   margin: 0 auto;
@@ -156,12 +174,12 @@ footer{
   padding-top: 15px;
 }
 
-footer a{
+footer a {
   text-decoration: none;
   color: #F9F9F9;
 }
 
-footer a:hover{
+footer a:hover {
   /* color: #52647a; */
   text-shadow: 0px 0px 23px #F9F9F9;
   font-weight: bold;

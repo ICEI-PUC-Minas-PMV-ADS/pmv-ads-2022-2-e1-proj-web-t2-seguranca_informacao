@@ -271,7 +271,7 @@ var quizInfoSec = function () {
 			);
 		}
 		$("main").append(
-			'<h3><a href="#">Quero saber os detalhes das questões apresentadas</a></h3>'
+			'<h3><a href="detalhesQuestoes.html">Quero saber os detalhes das questões apresentadas</a></h3>'
 		);
 	}
 
