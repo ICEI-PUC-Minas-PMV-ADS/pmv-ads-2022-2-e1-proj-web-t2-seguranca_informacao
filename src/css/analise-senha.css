@@ -138,14 +138,14 @@ p{
 }
 
 .retorno{
-  width: 350px;
+  width: 450px;
   color: #F9F9F9;
-  font-size: 16px;
+  font-size: 19px;
   text-align: center;
   padding: 20px 0;
   min-height: 35px;
   border: 2px solid #F9F9F9;
-  border-radius: 8px;
+  border-radius: 8px 8px 0 0;
   background-color: transparent;
   box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
 }
@@ -185,4 +185,20 @@ footer a:hover{
   /* color: #52647a; */
   text-shadow: 0px 0px 23px #F9F9F9;
   font-weight: bold;
+}
+
+#forcaSenha{
+  background-color: whitesmoke;
+  height: 12px;
+  position: relative;
+  border-radius: 0 0 5px 5px;
+  width: 100%;
+}
+
+#forcaBarra{
+  width: 0%;
+  height: 100%;
+  background-color: black;
+  border-radius: inherit;
+  transition: .5s ease-in-out;
 }
