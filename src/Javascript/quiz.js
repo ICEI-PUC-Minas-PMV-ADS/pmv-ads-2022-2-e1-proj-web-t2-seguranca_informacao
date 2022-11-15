@@ -15,7 +15,7 @@ var quiz = {
 		},
 		{
 			"id": 2,
-			"pergunta": "Em ataques de força bruta, invasão independerá do tamanho e da complexidade da senha, pois os criminosos sempre conseguirão identificar a senha em suas investidas.",
+			"pergunta": "Em ataques de força bruta, a invasão independerá do tamanho e da complexidade da senha, pois os criminosos sempre conseguirão identificar a senha em suas investidas.",
 			"opcoes": [
 				{
 					"a": "Verdadeiro",
@@ -28,7 +28,105 @@ var quiz = {
 		},
 		{
 			"id": 3,
-			"pergunta": "Pergunta 3",
+			"pergunta": "Um determinado usuário recebeu um e-mail falso, aparentemente proveniente de um banco comercial. O conteúdo desse e-mail o induziu a clicar em um link, fazendo com que fosse mostrada uma página eletrônica falsa. Caso esse usuário insira os seus dados financeiros nessa página eletrônica e os envie, os seus dados pessoais serão enviados a um golpista, que poderá fazer uso criminoso desses dados. Esse tipo de golpe na Internet é chamado de Phishing.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Verdadeiro",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 4,
+			"pergunta": "Um trojam torna inacessíveis os dados armazenados em um equipamento, geralmente usando criptografia, e que exige pagamento de resgate (ransom) para restabelecer o acesso ao usuário.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Falso",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 5,
+			"pergunta": "Um spyware é um tipo de malware ou vírus que realiza o monitoramento das atividades do computador infectado, com o objetivo de capturar senhas ou informações de cartões de crédito, por exemplo.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Verdadeiro",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 6,
+			"pergunta": "Ferramentas antimalware são aquelas que procuram detectar e, então, anular ou remover os códigos maliciosos de um computador. Antivírus, antispyware, antirootkit e antitrojan são exemplos de ferramentas deste tipo.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Verdadeiro",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 7,
+			"pergunta": "Com relação aos Backups, também conhecidos como cópias de segurança, é correto afirmar que é recomendado armazenar os backups sempre no mesmo local do dispositivo de armazenamento.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Falso",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 8,
+			"pergunta": "José utilizou uma ferramenta para criptografar uma informação a ser transmitida para Maria, com o objetivo de proteger a	informação contra acesso não autorizado. O requisito básico de segurança da informação assegurado pela criptografia é a confidencialidade.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Verdadeiro",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 9,
+			"pergunta": "Após acessar um website para o download de músicas da internet foi notado que o navegador internet passou a mostrar janelas pop-up com propagandas de forma infinita, ou seja, após o fechamento de uma janela, outra é apresentada em seguida de forma contínua. Esse efeito é característico do ataque do malware conhecido como worm.",
+			"opcoes": [
+				{
+					"a": "Verdadeiro",
+					"b": "Falso"
+				}
+			],
+			"resposta": "Falso",
+			"pontuacao": 0,
+			"status": ""
+		},
+
+		{
+			"id": 10,
+			"pergunta": "Existem malwares projetados especificamente para documentos do Word, Excel, Power Point, entre outros. Esse tipo de malware é conhecido como vírus de macro.",
 			"opcoes": [
 				{
 					"a": "Verdadeiro",
