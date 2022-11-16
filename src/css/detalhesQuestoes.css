@@ -75,6 +75,7 @@ p{
   border: 1px solid #F9F9F9;
   padding: 25px 35px;
   border-radius: 10px;
+  background: linear-gradient(180deg, rgba(68,89,107,0.7) 0%, rgba(141,141,141,0.7) 100%);
 }
 
 b.errada{

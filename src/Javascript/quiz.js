@@ -154,7 +154,7 @@ var quiz = {
 
 		{
 			"id": 12,
-			"pergunta": "A instalação de um antivírus e a ativação do firewall no computador pessoal são suficientes para garantir a segurança do computador contra os programas maliciosos. ",
+			"pergunta": "A instalação de um antivírus e a ativação do firewall no computador pessoal são suficientes para garantir a segurança do computador contra os programas maliciosos.",
 			"opcoes": [
 				{
 					"a": "Verdadeiro",
