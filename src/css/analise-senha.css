@@ -169,7 +169,11 @@ p{
   text-decoration: none;
   line-height: 25px;
   font-weight: bold;
-  color: lawngreen;
+  color: whitesmoke;
+}
+
+#gerador a:hover{
+  color: yellow;
 }
 
 footer{
