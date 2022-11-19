@@ -49,7 +49,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-05|Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet|<span style="color:orange">Média</span>|
 |RF-06|Menu de navegação que permite a navegabilidade entre as páginas da aplicação|<span style="color:orange">Média</span>|
 |RF-07|Quiz sobre a segurança da informação|<span style="color:#orange">Média</span>|
-|RF-08|Informar se a senha do usuário foi vazada|<span style="color:#66ff33">Baixa</span>|
 
 ### Requisitos não Funcionais
 
