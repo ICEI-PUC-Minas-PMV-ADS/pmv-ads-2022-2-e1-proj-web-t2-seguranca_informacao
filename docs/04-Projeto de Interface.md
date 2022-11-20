@@ -20,13 +20,15 @@ Conforme fluxo de telas do projeto, as telas do sistema são apresentadas em det
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/tela%20home%20.png?raw=true"/>
 
-A tela de home-page apresenta três opções de interações para o usuário:
+A tela de home-page apresenta quatro opções de interações para o usuário:
 
 * __Teste suas senhas__: permite ao usuário verificar o nível de  segurança da sua senha.
 
 * __Criar senha segura__: auxilia o usuário a criar senhas mais seguras.
 
-* __Mais sobre a segurança da informação__: fornece ao usuário informações diversas sobre segurança da informação. 
+* __Mais sobre a segurança da informação__: fornece ao usuário informações diversas sobre segurança da informação.  
+
+* __Quiz__: os usuários podem testar seus conhecimentos gerais sobre segurança da informação.
 
 ## Tela: Teste suas senhas
 
