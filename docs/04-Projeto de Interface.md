@@ -33,7 +33,7 @@ A tela de home-page apresenta três opções de interações para o usuário:
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/teste%20de%20senha.png?raw=true"/>
 
 Apresenta uma área de _input_ para que o usuário possa inserir senhas criadas previamente. Logo abaixo, aparecerá uma barra com o nível de segurança de sua senha, sendo: fraca, média ou forte.  
-Quando a senha for considerada de qualidade fraca ou média, aparecerá um quadro sugerindo para que o usuário realize a troca dela, além de mostrar quantas vezes a senha foi vazada.  
+Quando a senha for considerada de qualidade fraca ou média, aparecerá um quadro sugerindo para que o usuário realize a troca dela, além de mostrar se sua senha é muito comum.  
 Ainda na tela de teste de senhas, há uma imagem que direciona o usuário para a tela de criação de senhas mais seguras. 
 
 ## Tela: Crie senhas mais seguras 
