@@ -54,6 +54,19 @@ Ao selecionar alguma das informações disponíveis, o usuário será direcionad
 
  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/saiba_mais_exemplo.PNG?raw=true"/> 
 
+ ## Tela: Quiz  
+
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/quiz.PNG?raw=true"/> 
+
+ São apresentadas 15 questões ao usuário, sendo elas distribuídas em diversos assuntos relacionados à segurança da informação.  
+ Deve-se escolher uma das duas opções de resposta: verdadeiro ou falso.  
+ Ao marcar uma das alternativas, o usuário deve clicar no botão "Próxima" para prosseguir no quiz.  
+ Caso não seja selecionada uma das duas opções de respostas, o sistema irá considerar a alternativa como falsa.  
+ Ao finalizar o quiz, será apresentada a quantidade de respostas corretas dentre as 15 perguntas existentes, bem como os erros e acertos do usuário.  
+ No final dessa tela, aparecerá um link chamado de `Quero saber os detalhes das questões apresentadas`, que abrirá uma nova tela para mostrar comentários sobre todas as questões apresentadas no quiz.  
+
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/quiz_gabarito.PNG?raw=true"/> 
+
  ## Tela: Quem somos 
  
  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/quem%20somos.png?raw=true" width=800/>
