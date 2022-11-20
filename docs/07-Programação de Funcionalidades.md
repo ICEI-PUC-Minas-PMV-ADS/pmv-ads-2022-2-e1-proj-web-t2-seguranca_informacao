@@ -2,7 +2,7 @@
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
-## 1. Teste suas senhas (RF-01, RF-03 e RF-05)
+## 1. Teste suas senhas (RF-02, RF-04 e RF-06)
 
 <img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_teste_senhas.png?raw=true"/>  
 
@@ -13,9 +13,9 @@ O nível de segurança da senha será exibido em tela, sendo: fraca, média ou f
 Quando a senha for considerada de qualidade fraca ou média, aparecerá um quadro sugerindo para que o usuário realize a troca dela.
 
 ### 1.1 Requisitos atendidos:
-* RF-01
-* RF-03
-* RF-05 (ainda não iniciado)
+* RF-02
+* RF-04
+* RF-06  
 
 ### 1.2 Artefatos da funcionalidade:
 
@@ -25,7 +25,7 @@ Quando a senha for considerada de qualidade fraca ou média, aparecerá um quadr
 
 <br/>
 
-## 2. Crie Senhas Seguras (RF-02)  
+## 2. Crie Senhas Seguras (RF-03)  
 
 <img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_outras.PNG?raw=true"/>  
 
@@ -35,7 +35,7 @@ O usuário pode selecionar os tipos de caracteres que deseja incluir nas senhas,
 Também é possível definir o tamanho da senha, de 8 a 32 caracteres.  
 
 ### 2.1 Requisitos atendidos:
-* RF-02
+* RF-03
 
 ### 2.2 Artefatos da funcionalidade:
 
@@ -45,7 +45,7 @@ Também é possível definir o tamanho da senha, de 8 a 32 caracteres.
 
 <br/>  
 
-## 3. Saiba mais sobre segurança da informação (RF-04)  
+## 3. Saiba mais sobre segurança da informação (RF-05)  
 
 <img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_informacoes.png?raw=true"/>  
 
@@ -54,7 +54,7 @@ Também é possível definir o tamanho da senha, de 8 a 32 caracteres.
 A tela exibe algumas informações com o intuito de orientar sobre a importância de se utilizar senhas fortes, além de outras informações gerais sobre segurança da informação.  
 
 ### 3.1 Requisitos atendidos:
-* RF-04  
+* RF-05  
 
 ### 3.2 Artefatos da funcionalidade:
 
