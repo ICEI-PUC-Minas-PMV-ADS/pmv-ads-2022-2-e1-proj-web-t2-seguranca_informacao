@@ -110,19 +110,24 @@ São apresentadas 15 questões ao usuário, sendo elas distribuídas em diversos
 
 ## 5. Página inicial contendo link direto para cada um dos serviços apresendados na aplicação (RF-01)  
 
-<img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_outras.PNG?raw=true"/>  
+<img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_home_nova.PNG?raw=true"/>  
 
-[URL da tela](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/src/pages/geradorSenhas.html)
+[URL da tela](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
-O usuário pode selecionar os tipos de caracteres que deseja incluir nas senhas, como números, letras maiúsculas ou minúsculas e caracteres especiais.  
-Também é possível definir o tamanho da senha, de 8 a 32 caracteres.  
+A tela de home-page apresenta quatro opções de interações para o usuário:
+
+* Teste suas senhas: permite ao usuário verificar o nível de segurança da sua senha.  
+
+* Criar senha segura: auxilia o usuário a criar senhas mais seguras.  
+
+* Mais sobre a segurança da informação: fornece ao usuário informações diversas sobre segurança da informação.  
+
+* Quiz  
 
 ### 2.1 Requisitos atendidos:
-* RF-03
-* RF-06
+* RF-01
 
 ### 2.2 Artefatos da funcionalidade:
 
-* geradorSenhas.html
-* gerador-senha.css
-* geradorSenha.js  
+* index.html
+* index.css
