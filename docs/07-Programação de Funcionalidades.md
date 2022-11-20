@@ -22,10 +22,12 @@ Quando a senha for considerada de qualidade fraca ou média, aparecerá um quadr
 * analiseSenhas.html
 * analise-senha.css
 * validar_senha.js  
+* verificar_rainbow_table.js  
+* rainbow_table.js    
 
 <br/>
 
-## 2. Crie Senhas Seguras (RF-03)  
+## 2. Crie Senhas Seguras (RF-03 e RF-06)  
 
 <img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_outras.PNG?raw=true"/>  
 
@@ -36,6 +38,7 @@ Também é possível definir o tamanho da senha, de 8 a 32 caracteres.
 
 ### 2.1 Requisitos atendidos:
 * RF-03
+* RF-06
 
 ### 2.2 Artefatos da funcionalidade:
 
@@ -45,7 +48,7 @@ Também é possível definir o tamanho da senha, de 8 a 32 caracteres.
 
 <br/>  
 
-## 3. Saiba mais sobre segurança da informação (RF-05)  
+## 3. Saiba mais sobre segurança da informação (RF-05 e RF-06)  
 
 <img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_informacoes.png?raw=true"/>  
 
@@ -55,6 +58,7 @@ A tela exibe algumas informações com o intuito de orientar sobre a importânci
 
 ### 3.1 Requisitos atendidos:
 * RF-05  
+* RF-06  
 
 ### 3.2 Artefatos da funcionalidade:
 
@@ -74,3 +78,32 @@ A tela exibe algumas informações com o intuito de orientar sobre a importânci
 * informacao9.html
 * informacoes.css
  
+ ## 4. Quiz (RF-06 e RF-07)  
+
+ <img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_quiz.png?raw=true"/>  
+
+[URL da tela](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/src/pages/quiz.html)
+
+São apresentadas 15 questões ao usuário, sendo elas distribuídas em diversos assuntos relacionados à segurança da informação.  
+ Deve-se escolher uma das duas opções de resposta: verdadeiro ou falso.  
+ Ao marcar uma das alternativas, o usuário deve clicar no botão "Próxima" para prosseguir no quiz.  
+ Caso não seja selecionada uma das duas opções de respostas, o sistema irá considerar a alternativa como falsa.  
+ Ao finalizar o quiz, será apresentada a quantidade de respostas corretas dentre as 15 perguntas existentes, bem como os erros e acertos do usuário.  
+
+ <img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_quiz_resultado.png?raw=true"/>  
+
+ No final dessa tela, aparecerá um link chamado de `Quero saber os detalhes das questões apresentadas`, que abrirá uma nova tela para mostrar comentários sobre todas as questões apresentadas no quiz.  
+
+  <img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_quiz_gabarito.png?raw=true"/>  
+
+### 4.1 Requisitos atendidos:
+* RF-06  
+* RF-07  
+
+### 4.2 Artefatos da funcionalidade:
+
+* quiz.html
+* detalhesQuestoes.html
+* quiz.css
+* detalhesQuestoes.css
+* quiz.js
