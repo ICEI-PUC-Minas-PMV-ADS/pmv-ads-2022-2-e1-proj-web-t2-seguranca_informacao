@@ -25,7 +25,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|------------------------------------|----------------------------------------|
 |Eduardo Silva|Aprender como gerar senhas mais seguras|Repassar essa informação para o pessoal do seu escritório, a fim de não perder clientes devido ao vazamento de dados|
 |Eduardo Silva|Deixar mais seguro seus dispositivos|Mitigar o vazamento de dados pessoais e da empresa onde trabalha|
-|Eduardo Silva|Verificar se sua senha já foi vazada|Diminuir as chances de que suas senhas sejam descobertas|
+|Eduardo Silva|Verificar se sua senha é segura e se é muito comum|Diminuir as chances de que suas senhas sejam descobertas|
 |Célia Santos|Criar senhas seguras sem depender de outras pessoas|Utilizar aplicativos e sites com mais segurança|
 |Célia Santos|Entender sobre riscos comuns existentes ao utilizar a internet|Precaver contra possíveis ameaças digitais futuras|
 |Matheus Henrique|Reduzir as chances de que suas senhas sejam descobertas|Proteger suas redes sociais e aplicativos|
