@@ -10,15 +10,13 @@ Os componentes que fazem parte da solução são apresentados na figura que se s
 
 A solução implementada conta com os seguintes módulos:
 * Navegador - Interface básica do sistema 
-  * Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-* API v3 (haveibeenpwned.com) – contém um banco de dados com centenas de milhões de senhas que foram anteriormente expostas em violações de dados.
+  * Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.  
 * Hospedagem - GitHub Pages. 
 
 ## Tecnologias Utilizadas
 
 * HTML, CSS, JavaScript;
 * Git, GitHub, GitHub Pages e Github Projects;
-* API v3 (haveibeenpwned.com);
 * Visual Studio Code;
 * Microsoft Teams e Whatsapp;
 * Moqups app.
@@ -26,5 +24,5 @@ A solução implementada conta com os seguintes módulos:
 
 ## Hospedagem
 
-A Hospedagem será feita futuramente em servidor do GitHub Pages.
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/
 
