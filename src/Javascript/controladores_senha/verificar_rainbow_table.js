@@ -21,7 +21,6 @@ function mostrar_resultado(eh_comum) {
     if (eh_comum) {
         verifica_senha_comum.innerHTML = "Senha muito comum!!! O que acha de trocar?"
     } else {
-        verifica_senha_comum.innerHTML = "Sua senha não está entre as 10 mil mais comuns"
-    }
+        verifica_senha_comum.innerHTML = "Parabens!!! Sua senha não está na lista das mais comuns. Verifique os demais critérios de força!"
 
 }
