@@ -96,15 +96,15 @@ function mostrarForcaSenha(forca) {
     //document.getElementById("imprimeForcaSenha").innerHTML = "Força: " + forca
     const classific_senha = document.getElementById("classificaSenha")
     if (forca < 30) {
-        classific_senha.innerHTML = "<span style='color: #d0312d'>Fraca</span>";
+        classific_senha.innerHTML = "<span style='color: #d0312d'>Senha fraca</span>";
         forcaBarra.style.width = "33%";
         document.getElementById("forcaBarra").style.background = "#d0312d";
     } else if (forca >= 30 && forca < 60) {
-        classific_senha.innerHTML = "<span style='color: #FFD700'>Média</span>";
+        classific_senha.innerHTML = "<span style='color: #FFD700'>Senha média</span>";
         forcaBarra.style.width = "66%";
         document.getElementById("forcaBarra").style.background = "#FFD700";
     } else if (forca >= 60 && forca < 70) {
-        classific_senha.innerHTML = "<span style='color: #00ec00'>Forte</span>";
+        classific_senha.innerHTML = "<span style='color: #00ec00'>Senha forte</span>";
         forcaBarra.style.width = "100%";
         document.getElementById("forcaBarra").style.background = "#00ec00"
     }

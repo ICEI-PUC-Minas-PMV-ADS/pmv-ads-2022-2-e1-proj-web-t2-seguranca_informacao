@@ -239,9 +239,12 @@ button:hover{
 }
 
 .retornoSenha{
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 20rem;
+  height: 80px;
   font-size: 16px;
-  text-align: center;
   padding: 5px;
   margin: 20px 0;
   min-height: 45px;
@@ -256,7 +259,7 @@ button:hover{
 
   width: 380px;
   margin: 0 auto;
-  padding: 18px 40px 0;
+  padding: 18px 40px 18px;
   min-height: 380px;
   border: 2px solid #F9F9F9;
 
