@@ -26,11 +26,45 @@
 
 * Testar se o avaliador de senhas funciona corretamente.
 
-#### Caso de senha fraca que não atende os requisitos.
+#### Caso de senha fraca que não atende nenhum dos requisitos.
 
 <img src= "https://user-images.githubusercontent.com/108690900/203124641-b40e76da-5de1-460c-8900-069678dd05d0.png" width=80%>
 
 #### Caso de senha forte que atende todos os requisitos.
 
 <img src= "https://user-images.githubusercontent.com/108690900/203125151-a7f3c8ce-5761-45a7-9b50-682a7caa5b07.png" width=80%>
+
+#### Caso de senha muito comum com histórico de vazamento.
+
+<img src= "https://user-images.githubusercontent.com/108690900/203125628-25e4309a-f347-42f8-b21f-7d4e9f01fc02.png" width=80%>
+
+#### Caso de senha forte que atende todos os requisitos, alimentando o formulário com os dados básicos do usuário.
+
+<img src= "https://user-images.githubusercontent.com/108690900/203125639-4952402a-e2db-484e-b6e7-9b6f5331a6c7.png" width=80%>
+
+### Teste 04 - Gerador de Senhas
+
+* Testar o gerador de senhas com todos os opcionais.
+
+<div align = center>
+  <img src= "#" width=48%>
+  <img src= "#" width=48%>
+  <img src= "#" width=48%>
+  <img src= "#" width=48%>
+</div>
+
+### Teste 05 - Portal de Notícias
+
+* Testar a navegabilidade do portal de notícias.
+
+<div align = center>
+  <img src= "https://user-images.githubusercontent.com/108690900/203127935-d849694d-4f74-44c0-8258-3f6c01c7e4bc.png" width=48%>
+  <img src= "https://user-images.githubusercontent.com/108690900/203127949-288070b1-197d-440c-9b96-38559930871d.png" width=48%>
+</div>
+
+
+
+
+
+
 
