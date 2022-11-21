@@ -62,6 +62,31 @@
   <img src= "https://user-images.githubusercontent.com/108690900/203127949-288070b1-197d-440c-9b96-38559930871d.png" width=48%>
 </div>
 
+### Teste 06 - Menu de Navegação
+
+* Testar se o menu de navegação funciona corretamente.
+
+<div align = center>
+  <img src= "#" width=48%>
+  <img src= "#" width=48%>
+  <img src= "#" width=48%>
+  <img src= "#" width=48%>
+  <img src= "#" width=48%>
+</div>
+
+### Teste 07 - Quiz
+
+* Testar a funcionalidade do quiz, confirmando se ele apresenta o resultado no fim do jogo.
+
+<div align = center>
+  <img src= "https://user-images.githubusercontent.com/108690900/203137734-19e54d8e-8b13-46d3-8ca9-3f23796f9828.png" width=48%>
+  <img src= "https://user-images.githubusercontent.com/108690900/203137738-082fb2db-335d-42ac-b45f-61bf0580a8cf.png" width=48%>
+  <img src= "https://user-images.githubusercontent.com/108690900/203138035-15af090c-fea5-49cd-bb27-25845724f301.png" width=48%>
+  <img src= "https://user-images.githubusercontent.com/108690900/203138044-2ae540e0-933e-476e-96b3-71b72df1dce4.png" width=48%>
+</div>
+
+
+
 
 
 
