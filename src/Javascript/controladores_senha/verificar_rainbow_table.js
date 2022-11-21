@@ -19,7 +19,7 @@ function verificar_senha_contida() {
 function mostrar_resultado(eh_comum) {
     const verifica_senha_comum = document.getElementById("classificaComum")
     if (eh_comum) {
-        verifica_senha_comum.innerHTML = "Sua senha está entre as 10 mil mais comuns"
+        verifica_senha_comum.innerHTML = "Senha muito comum!!! O que acha de trocar?"
     } else {
         verifica_senha_comum.innerHTML = "Sua senha não está entre as 10 mil mais comuns"
     }
