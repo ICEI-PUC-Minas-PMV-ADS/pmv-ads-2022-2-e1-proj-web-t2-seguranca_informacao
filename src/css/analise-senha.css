@@ -210,3 +210,54 @@ footer a:hover{
   border-radius: inherit;
   transition: .5s ease-in-out;
 }
+
+
+@media screen and (max-width: 1000px){
+
+  main{
+    /* height: 185vh; */
+    justify-content: flex-start;
+  }
+  
+  #lados{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+#gerador{
+  padding: 60px;
+}
+
+  main h1{
+    margin: 20px 0 0;
+  }
+}
+
+hr{
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 719px){
+  main{
+    /* height: 325vh; */
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (max-width: 600px){
+  main{
+    /* height: 325vh; */
+    justify-content: flex-start;
+  }
+
+  header{
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .imagemLogo{
+    scale: 0.7;  
+  }
+
+}
