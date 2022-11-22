@@ -53,13 +53,5 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 | :-------------------: | :---------------------------------------------------------------- |
 | Requisitos Associados | RF-07 - Quiz sobre a segurança da informação.                     |
 |   Objetivo do Teste   | Verificar a jogabilidade do quiz e as respostas de cada pergunta. |
-|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Quiz" <br> 4) Interagir com o jogo.                              |
-|  Critérios de Êxito   | O usuário irá selecionar as respostas, e após responder todas as perguntas, a aplicação deverá mostrar ao usuário corretamente, os seus erros e acertos.                                                                                  |
-
-|     Caso de teste     | T-08 - Vazamento de senhas                                                                                            |
-| :-------------------: | :-------------------------------------------------------------------------------------------------------------------- |
-| Requisitos Associados | RF-08 - Informar se a senha do usuário foi vazada.                                                                    |
-|   Objetivo do Teste   | Verificar se a aplicação informa corretamente ao usuário que senhas do mesmo padrão que a informada já foram vazadas. |
-|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Teste suas senhas" <br> 4) Repetir o processo de análise de senha.                                                   |
-|  Critérios de Êxito   | Após fazer a análise da senha, a informação irá aparecer na tela.                                                     | 
- 
+|        Passos         | 1) Abrir o navegador <br> 2) Informar a URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/ <br> 3) Acessar a área de "Quiz" <br> 4) Interagir com o jogo. |
+|  Critérios de Êxito   | O usuário irá selecionar as respostas, e após responder todas as perguntas, a aplicação deverá mostrar ao usuário corretamente, os seus erros e acertos.                                                     |
