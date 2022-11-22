@@ -1,0 +1,212 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+  color: #F9F9F9;
+}
+
+body{
+  background: rgb(68,89,107);
+  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.page {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+header img{
+  width: 225px;
+  transition: all 200ms ease-in-out;
+}
+
+nav{
+  display: flex;
+  gap: 40px;
+  transition: transform 200ms;
+}
+
+nav img:hover {
+  transform: scale(1.2);
+}
+
+header nav img{
+  width: 40px;
+}
+
+#lados{
+  display: flex;
+  gap: 100px;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin: 0 100px; */
+}
+
+h1{
+  margin: 40px 0;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+
+  margin: 0 auto;
+  padding: 20px 30px 0;
+  min-height: 300px;
+  border: 2px solid #F9F9F9;
+
+  border-radius: 12px;
+  font-size: 18px;
+  /* line-height: 40px; */
+
+  box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
+}
+
+form label{
+  margin: 10px 0 5px;
+}
+
+form input{
+  color: rgba(68,89,107,1);
+  padding: 5px 10px;
+  font-family: 'Mulish', sans-serif;
+  font-size: 16px;
+}
+
+.insiraSenha input{
+  width: 100%;
+  color: rgba(68,89,107,1);
+  font-size: 18px;
+  text-align: center;
+  padding: 5px 0;
+  margin: 20px 0;
+  min-height: 45px;
+  border: 2px solid rgba(68,89,107,0.9);
+  border-radius: 8px;
+  background-color: #F9F9F9;
+  box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
+}
+
+/* ::placeholder {
+  color: rgba(68,89,107,1);
+  opacity: 1;
+  font-size: 18px;
+  font-weight: bold;
+  text-shadow: 0px 0px 15px rgb(233, 226, 22);
+} */
+
+/* .container {
+  height: 25px;
+  background-color: #CCC;
+  position: relative;
+  margin-bottom: 40px;
+} */
+
+/* .container .progress-bar{
+ position: absolute;
+ height: 100%;
+ background-color: #08aa2b;
+ animation: progress-animation 5s infinite;
+} */
+
+/* @keyframes progress-animation{
+  0% { width: 0%; } 
+  100% { width: 100%}
+} */
+
+p{
+  /* text-align: justify; */
+  font-size: 18px;
+  line-height: 35px;
+  /* margin: 15px; */
+}
+
+.retorno{
+  width: 450px;
+  color: #F9F9F9;
+  font-size: 19px;
+  text-align: center;
+  padding: 20px 0;
+  min-height: 100px;
+  border: 2px solid #F9F9F9;
+  border-radius: 8px 8px 0 0;
+  background-color: transparent;
+  box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
+}
+
+.retorno h3{
+  color: rgb(233, 226, 22);
+}
+
+#gerador{
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0 20px;
+  /* gap: 25px; */
+  align-items: center;
+  /* margin-top: 20px; */
+}
+
+#gerador a{
+  width: 250px;
+  text-align: center;
+  text-decoration: none;
+  line-height: 25px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+#gerador a:hover{
+  color: yellow;
+}
+
+footer{
+  display: flex;
+  width: 500px;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+
+footer a{
+  text-decoration: none;
+  color: #F9F9F9;
+  padding: 20px 0;
+}
+
+footer a:hover{
+  /* color: #52647a; */
+  text-shadow: 0px 0px 23px #F9F9F9;
+  font-weight: bold;
+}
+
+#forcaSenha{
+  background-color: whitesmoke;
+  height: 12px;
+  position: relative;
+  border-radius: 0 0 5px 5px;
+  width: 100%;
+}
+
+#forcaBarra{
+  width: 0%;
+  height: 100%;
+  background-color: black;
+  border-radius: inherit;
+  transition: .5s ease-in-out;
+}

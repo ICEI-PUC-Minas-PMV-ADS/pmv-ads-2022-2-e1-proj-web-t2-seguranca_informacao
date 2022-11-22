@@ -6,24 +6,23 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 Os componentes que fazem parte da solução são apresentados na figura que se segue:
 
-<img scale=1.2 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/diagrama.PNG?raw=true" width="500" />  
+<img scale=1.2 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/diagrama2.PNG?raw=true" width="500" />  
 
 A solução implementada conta com os seguintes módulos:
 * Navegador - Interface básica do sistema 
-  * Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-* API v3 – contém um banco de dados com centenas de milhões de senhas que foram anteriormente expostas em violações de dados.
-* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+  * Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.  
+* Hospedagem - GitHub Pages. 
 
-
-> 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+* HTML, CSS, JavaScript;
+* Git, GitHub, GitHub Pages e Github Projects;
+* Visual Studio Code;
+* Microsoft Teams e Whatsapp;
+* Moqups app.
 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/
 

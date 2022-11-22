@@ -1,4 +1,6 @@
-# SEGURANÇA DA INFORMAÇÃO (Definir um nome para o projeto)
+# InfoSec
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Logo_fundo_branco.PNG?raw=true" width=200/>  
+
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - PUC MINAS`
 
@@ -6,8 +8,8 @@
 
 `2º/2022`
 
-Este projeto tem como objetivo geral auxiliar os usuários na criação de senhas mais seguras.  
-É uma aplicação que apresenta mecanismos para que as pessoas consigam avaliar a qualidade de suas senhas, sugira a criação de senhas fortes, forneça informações relevantes sobre segurança da informação e alerte sobre senhas que foram vazadas.
+Este projeto tem como objetivo auxiliar os usuários na criação de senhas mais seguras.  
+É uma aplicação que apresenta mecanismos para que as pessoas consigam avaliar a qualidade de suas senhas, sugira a criação de senhas fortes, forneça informações relevantes sobre segurança da informação e disponibiliza um quiz para que os usuários testem seus conhecimentos sobre segurança da informação.
 
 ## Integrantes
 
@@ -15,7 +17,9 @@ Este projeto tem como objetivo geral auxiliar os usuários na criação de senha
 * Flávio Martins da Cruz 
 * Diego Ruas Toledo 
 * Lucas Delmasquio Silva 
-* Mateus Borges Martins da Silva
+* Mateus Borges Martins da Silva  
+
+Nossos perfis no LinkedIn estão disponíveis no [quem somos](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/src/pages/quemSomos.html) do projeto.
 
 
 ## Orientadora
@@ -24,7 +28,7 @@ Este projeto tem como objetivo geral auxiliar os usuários na criação de senha
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para utilizar a aplicação, basta acessar o endereço eletrônico [InfoSec](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
 # Documentação
 
@@ -44,12 +48,12 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+> [https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
 # Armazenamento do Código-Fonte
 
-* <a href="src/README.md">Código Fonte</a>
+> <a href="src/README.md">Código Fonte</a>
 
 # Armazenamento da Apresentação
 
-* <a href="presentation/README.md">Apresentação da solução (inserir)</a>
+> <a href="presentation/README.md">Apresentação da solução (inserir)</a>

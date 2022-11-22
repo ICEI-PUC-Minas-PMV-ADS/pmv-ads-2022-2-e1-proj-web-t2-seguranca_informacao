@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="../Javascript/controladores_senha/validar_senha.js" defer></script>
+  <script src="../Javascript/controladores_senha/rainbow_table.js" defer></script>
+  <script src="../Javascript/controladores_senha/verificar_rainbow_table.js" defer></script>
+  <title>Teste de senhas</title>
+  <link rel="stylesheet" href="../css/analise-senha.css">
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <div class="page">
+    <header>
+      <!-- <img src="../images/Logo_fundo_transparente.png" alt="Logo InfoSec"> -->
+      <a class="imagemLogo" href="../../index.html"><img src="../images/Logo_fundo_transparente.png"
+          alt="Logo InfoSec"></a>
+      <nav>
+        <!-- <a href="javascript:history.back()"><img src="../images/back.png" alt=""></a> -->
+        <a href="../../index.html"><img src="../images/home.png" alt=""></a>
+        <a href="geradorSenhas.html"><img src="../images/padlock.png" alt=""></a>
+        <a href="informacoesIndex.html"><img src="../images/info.png" alt=""></a>
+        <a href="quiz.html"><img src="../images/quiz.png" alt=""></a>
+      </nav>
+    </header>
+    <hr>
+
+    <main>
+      <h1>Teste suas senhas</h1>
+      <!-- <p>Verifique a eficácia das suas senhas! -->
+      <div id="lados">
+        <div class="ladoEsquerdo">
+          <form>
+            <h3>Insira seus dados (opcional)</h3>
+            <label>Nome</label>
+            <input type="text" id="nome" placeholder="Digite seu nome" />
+            <label>Data de nascimento</label>
+            <input type="date" id="data" placeholder="Data de nascimento" />
+            <label>Telefone</label>
+            <input type="number" id="telefone" placeholder="Digite seu telefone" />
+          </form>
+          <br />
+          <div class="insiraSenha">
+            Senha: <input type="text" name="senha" id="senha" placeholder="Insira sua senha aqui">
+            <!-- <p>Área falando a força da senha (barra ou texto)</p> -->
+          </div>
+          <!-- <div class="container">
+            <div class="progress-bar"></div>
+          </div> -->
+        </div>
+        <div class="ladoDireito">
+          <div class="retorno">
+            <h3 id="classificaSenha"></h3>
+            <p id="classificaComum"></p>
+            <p></p>
+          </div>
+          <div id="forcaSenha">
+            <div id="forcaBarra"></div>
+          </div>
+          <div id="gerador">
+            <a href="geradorSenhas.html"><img src="../images/gif.gif" alt=""></a>
+            <a href="geradorSenhas.html">Clique aqui e use o nosso gerador de senhas</a>
+            <!-- <p>Clique aqui e use o nosso gerador de senhas</p> -->
+          </div>
+        </div>
+      </div>
+
+    </main>
+    <hr>
+    <footer>
+      <a href="quemSomos.html">Quem somos</a>
+      <a href="./creditos.html">Todos os direitos reservados</a>
+    </footer>
+</body>
+
+</html>

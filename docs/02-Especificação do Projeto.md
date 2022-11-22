@@ -25,12 +25,14 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|------------------------------------|----------------------------------------|
 |Eduardo Silva|Aprender como gerar senhas mais seguras|Repassar essa informação para o pessoal do seu escritório, a fim de não perder clientes devido ao vazamento de dados|
 |Eduardo Silva|Deixar mais seguro seus dispositivos|Mitigar o vazamento de dados pessoais e da empresa onde trabalha|
-|Eduardo Silva|Verificar se sua senha já foi vazada|Diminuir as chances de que suas senhas sejam descobertas|
+|Eduardo Silva|Verificar se sua senha é segura e se é muito comum|Diminuir as chances de que suas senhas sejam descobertas|
 |Célia Santos|Criar senhas seguras sem depender de outras pessoas|Utilizar aplicativos e sites com mais segurança|
 |Célia Santos|Entender sobre riscos comuns existentes ao utilizar a internet|Precaver contra possíveis ameaças digitais futuras|
 |Matheus Henrique|Reduzir as chances de que suas senhas sejam descobertas|Proteger suas redes sociais e aplicativos|
 |Matheus Henrique|Ajuda na criação de senhas fortes e únicas para cada site onde for cadastrado|Não utilizar a mesma senha em vários sites|
 |Matheus Henrique|Avaliar a qualidade das suas senhas|Criar senhas mais seguras, caso necessário|
+
+<br/>
 
 ## Requisitos
 
@@ -40,11 +42,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01|Avaliar a qualidade das senhas informadas pelos usuários|<span style="color:red">Alta</span>|
-|RF-02|Criar senhas seguras para os usuários|<span style="color:red">Alta</span>|
-|RF-03|Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet|<span style="color:orange">Média</span>|
-|RF-04|Informar se a senha do usuário foi vazada|<span style="color:#66ff33">Baixa</span>|
-
+|RF-01|Na página principal é apresentado as opções de serviços, análise de senhas, gerador de senhas e portal de noticias|<span style="color:red">Alta</span>|
+|RF-02|Avaliar a qualidade das senhas informadas pelos usuários|<span style="color:red">Alta</span>|
+|RF-03|Criar senhas seguras para os usuários|<span style="color:red">Alta</span>|
+|RF-04|Formulário com informações básicas do usuário (nome, data de nascimento, telefone)|<span style="color:red">Alta</span>|
+|RF-05|Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet|<span style="color:orange">Média</span>|
+|RF-06|Menu de navegação que permite a navegabilidade entre as páginas da aplicação|<span style="color:orange">Média</span>|
+|RF-07|Quiz sobre a segurança da informação|<span style="color:#orange">Média</span>|
 
 ### Requisitos não Funcionais
 
@@ -55,6 +59,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-03|O site deve ter bom nível de contraste entre os elementos da tela em conformidade|<span style="color:#66ff33">Baixa</span>|
 |RNF-04|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)|<span style="color:red">Alta</span>|
 |RNF-05|O site deve ser desenvolvido com layout simples, organizado e intuitivo|<span style="color:orange">Média</span>|
+
+<br/>
 
 ## Restrições
 

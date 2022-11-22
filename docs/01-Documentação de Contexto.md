@@ -5,12 +5,13 @@ O contexto atual de crescente informatização nos diversos seguimentos das noss
 A propagação do uso desses meios e a rapidez e agilidade proporcionada por eles fez com que as pessoas fiquem cada vez mais dependentes de logins e senhas para ter acesso aos mais diversos serviços. 
 Diante disso, surge a preocupação a respeito da maneira em que as pessoas lidam com seus acessos e senhas, tendo em vista os riscos que isso pode acarretar para a segurança da informação.
 
-Um levantamento da empresa Kaspersky Lab demonstrou que muitos usuários colocam a segurança de suas informações em risco, por escolherem senhas repetidas para diversas aplicações, usarem senhas fracas ou ainda armazená-las sem segurança.
+Um levantamento da empresa Kaspersky Lab (2016) demonstrou que muitos usuários colocam a segurança de suas informações em risco, por escolherem senhas repetidas para diversas aplicações, usarem senhas fracas ou ainda armazená-las sem segurança.
 
 Frequentemente, encontram-se relatos de pessoas que tiveram problemas com suas contas bancárias, contas em redes sociais e sites de compra por utilizarem senhas muito vulneráveis. Isso denota que diversos usuários têm a sua segurança digital comprometida pelo fato de não terem conhecimentos a respeito da segurança da informação.
 
 Em face do que foi exposto, é importante pensar em soluções que apresentem mecanismos para que as pessoas consigam avaliar a qualidade de suas senhas, sugiram a criação de senhas fortes e que forneçam informações relevantes sobre segurança da informação, com o objetivo principal de minimizar o vazamento de informações.
 
+<br/>
 
 ## Problema
 Dificuldade para criação de senhas seguras por parte dos usuários.
@@ -18,6 +19,8 @@ Dificuldade para criação de senhas seguras por parte dos usuários.
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+
+<br/>
 
 ## Objetivos
 
@@ -29,6 +32,8 @@ A aplicação possui como objetivos específicos:
 * Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet;
 * Alertar sobre senhas vazadas.
 
+<br/>
+
 ## Justificativa
 
 O século XXI está marcado por inúmeras ocorrências de vazamento de dados.
@@ -39,6 +44,8 @@ Em um estudo apresentado por Zviran e Haga (1999), foi mostrado que 80% das senh
 Uma pesquisa da Kaspersky Lab, realizada em 21 países, incluindo o Brasil, apresentou três erros frequentes na geração de senhas por parte dos usuários: há utilização de mesma senha para diversas contas; senhas fracas são usadas indiscriminadamente; senhas são armazenadas de maneira inadequada. Além disso, a pesquisa mostrou que 64% das pessoas criam senhas misturando letras e números, que 47% dos usuários utilizam combinações de letras maiúsculas e minúsculas e que apenas 4% deles fazem uso de software especializado para geração de senhas fortes.
 
 Considerando-se que o uso de senhas convencionais ainda é predominante, se comparado com a utilização de aplicativos para autenticação, biometria ou outras tecnologias, e que a necessidade de criação de novas senhas fortes é considerada como um desafio para um número significativo de usuários, o projeto apresentado justifica-se por ser uma opção viável para automatizar a criação de senhas fortes e disponibilizá-las para os usuários, além de fornecer informações relevantes sobre segurança da informação.
+
+<br/>
 
 ## Público-Alvo
 
