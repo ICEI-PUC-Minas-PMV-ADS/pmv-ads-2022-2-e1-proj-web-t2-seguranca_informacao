@@ -36,10 +36,10 @@
 * Testar o gerador de senhas com todos os opcionais.
 
 <div align = center>
-  <img src= "#" width=48%>
-  <img src= "#" width=48%>
-  <img src= "#" width=48%>
-  <img src= "#" width=48%>
+  <img src= "https://user-images.githubusercontent.com/108690900/203188918-5d5ddaf5-32ec-4242-8a51-eb47902c6b3d.png" width=48%>
+  <img src= "https://user-images.githubusercontent.com/108690900/203188904-5484e169-7048-4d0c-bf3a-612b00876723.png" width=48%>
+  <img src= "https://user-images.githubusercontent.com/108690900/203188938-7231d082-046c-436d-a15e-104839c0f4bb.png" width=48%>
+  <img src= "https://user-images.githubusercontent.com/108690900/203188945-1d82cc44-dfde-40cd-a97f-b9d87de25bec.png" width=48%>
 </div>
 
 ## Teste 05 - Portal de Notícias
