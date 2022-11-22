@@ -9,7 +9,7 @@ Todas as páginas são apresentadas com  cabeçalho, conteúdo e rodapé:
 
 A tela home se diferencia das demais por não possuir o menu de navegação no canto superior direito. Assim, o cabeçalho contém apenas o logotipo do projeto:
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_home.PNG?raw=true"/>  
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_home_nova.PNG?raw=true"/>  
 
 <br/>
 
