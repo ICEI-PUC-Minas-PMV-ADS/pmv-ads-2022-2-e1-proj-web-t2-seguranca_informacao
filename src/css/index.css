@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -6,9 +6,9 @@
   color: #F9F9F9;
 }
 
-body{
-  background: rgb(68,89,107);
-  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+body {
+  background: rgb(68, 89, 107);
+  background: linear-gradient(180deg, rgba(68, 89, 107, 1) 0%, rgba(141, 141, 141, 1) 100%);
   min-height: 100vh;
   display: flex;
 }
@@ -19,7 +19,7 @@ body{
   padding-top: 30px;
 }
 
-header img{
+header img {
   width: 225px;
 }
 
@@ -34,7 +34,7 @@ header img{
   border-radius: 50%;
 }
 
-main{
+main {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -42,12 +42,12 @@ main{
   transition: all 500ms ease-in-out;
 }
 
-.quadro{
+.quadro {
   width: 260px;
   height: 290px;
   margin: 120px auto;
   padding: 35px 20px 0;
-  background: linear-gradient(180deg, rgba(68,89,107,0.7) 0%, rgba(141,141,141,0.7) 100%);
+  background: linear-gradient(180deg, rgba(68, 89, 107, 0.7) 0%, rgba(141, 141, 141, 0.7) 100%);
   border: 2px solid #F9F9F9;
 
   border-radius: 12px;
@@ -64,10 +64,10 @@ main{
 .quadro:hover {
   transform: scale(1.1);
   box-shadow: 13px 13px 45px -1px rgb(73, 73, 73);
-  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+  background: linear-gradient(180deg, rgba(68, 89, 107, 1) 0%, rgba(141, 141, 141, 1) 100%);
 }
 
-.quadro h2{
+.quadro h2 {
   font-size: 18px;
   font-weight: bold;
   margin: 20px 0;
@@ -78,11 +78,11 @@ main{
   text-decoration: none;
 }
 
-p{
+p {
   /* text-align: center; */
 }
 
-footer{
+footer {
   display: flex;
   width: 500px;
   margin: 0 auto;
@@ -90,13 +90,38 @@ footer{
   padding-top: 15px;
 }
 
-footer a{
+footer a {
   text-decoration: none;
   color: #F9F9F9;
 }
 
-footer a:hover{
+footer a:hover {
   /* color: #52647a; */
   text-shadow: 0px 0px 23px #F9F9F9;
   font-weight: bold;
+}
+
+
+@media screen and (max-width: 1220px) {
+
+  main {
+    height: 175vh;
+    justify-content: flex-start;
+    flex-direction: column;
+  }
+
+  main .quadro {
+    margin: 40px auto;
+    min-height: 290px;
+  }
+
+  img {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+  hr {
+    margin-bottom: 50px;
+  }
 }
