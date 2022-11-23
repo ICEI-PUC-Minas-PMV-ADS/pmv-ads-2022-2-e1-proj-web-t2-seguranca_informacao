@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -7,30 +7,30 @@
 }
 
 .page {
-  width: 1200px;
+  max-width: 1200px;
   margin: 0 auto;
   padding-top: 30px;
 }
 
-body{
-  background: rgb(68,89,107);
-  background: linear-gradient(180deg, rgba(68,89,107,1) 0%, rgba(141,141,141,1) 100%);
+body {
+  background: rgb(68, 89, 107);
+  background: linear-gradient(180deg, rgba(68, 89, 107, 1) 0%, rgba(141, 141, 141, 1) 100%);
   min-height: 100vh;
 }
 
-header{
+header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 20px;
 }
 
-header img{
+header img {
   width: 225px;
   transition: all 200ms ease-in-out;
 }
 
-nav{
+nav {
   display: flex;
   gap: 40px;
   transition: transform 200ms;
@@ -40,31 +40,31 @@ nav img:hover {
   transform: scale(1.2);
 }
 
-header nav img{
+header nav img {
   width: 40px;
 }
 
-main{
+main {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 0 100px;
 }
 
-main a{
+main a {
   text-decoration: none;
 }
 
-main a:hover{
+main a:hover {
   text-shadow: 0px 0px 23px #F9F9F9;
   font-weight: bold;
 }
 
-h1{
+h1 {
   margin: 40px 0 40px;
 }
 
-p{
+p {
   width: 840px;
   text-align: justify;
   font-size: 18px;
@@ -72,20 +72,20 @@ p{
   margin-bottom: 40px;
 }
 
-.checkboxOptions{
+.checkboxOptions {
   display: flex;
   gap: 15px;
   align-items: center;
 }
 
-.quadros{
+.quadros {
   display: flex;
   gap: 80px;
   transition: transform 200ms;
   margin-bottom: 55px;
 }
 
-.quadroEsquerda{
+.quadroEsquerda {
   display: flex;
   flex-direction: column;
 
@@ -102,13 +102,13 @@ p{
   box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
 }
 
-.quadroEsquerda h2{
+.quadroEsquerda h2 {
   padding-bottom: 25px;
   font-size: 24px;
   text-align: center;
 }
 
-.quadroDireita h2{
+.quadroDireita h2 {
   padding-bottom: 15px;
   font-size: 24px;
   text-align: center;
@@ -121,14 +121,14 @@ p{
   padding-top: 10px;
 } */
 
-.sliderCaixa{
+.sliderCaixa {
   display: flex;
   align-items: center;
   gap: 15px;
   padding: 15px 0;
 }
 
-.inputClass{
+.inputClass {
   display: flex;
   align-items: center;
   height: 25px;
@@ -145,9 +145,11 @@ input[type=range] {
   margin: 18px auto;
   width: 80%;
 }
+
 input[type=range]:focus {
   outline: none;
 }
+
 input[type=range]::-webkit-slider-runnable-track {
   width: 80%;
   height: 8.4px;
@@ -156,6 +158,7 @@ input[type=range]::-webkit-slider-runnable-track {
   background: #F9F9F9;
   border-radius: 2px;
 }
+
 input[type=range]::-webkit-slider-thumb {
   box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
   height: 36px;
@@ -166,9 +169,11 @@ input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
   margin-top: -14px;
 }
+
 input[type=range]:focus::-webkit-slider-runnable-track {
   background: #F9F9F9;
 }
+
 input[type=range]::-moz-range-track {
   width: 80%;
   height: 8.4px;
@@ -177,6 +182,7 @@ input[type=range]::-moz-range-track {
   background: #F9F9F9;
   border-radius: 2px;
 }
+
 input[type=range]::-moz-range-thumb {
   box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
   height: 36px;
@@ -185,6 +191,7 @@ input[type=range]::-moz-range-thumb {
   background: #367ebd;
   cursor: pointer;
 }
+
 input[type=range]::-ms-track {
   width: 80%;
   height: 8.4px;
@@ -194,16 +201,19 @@ input[type=range]::-ms-track {
   border-width: 16px 0;
   color: transparent;
 }
+
 input[type=range]::-ms-fill-lower {
   background: #F9F9F9;
   border-radius: 2.6px;
   box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
 }
+
 input[type=range]::-ms-fill-upper {
   background: #F9F9F9;
   border-radius: 2.6px;
   box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
 }
+
 input[type=range]::-ms-thumb {
   box-shadow: 1px 1px 1px #3b4754, 0px 0px 1px #3b4754;
   height: 36px;
@@ -212,14 +222,16 @@ input[type=range]::-ms-thumb {
   background: #367ebd;
   cursor: pointer;
 }
+
 input[type=range]:focus::-ms-fill-lower {
   background: #F9F9F9;
 }
+
 input[type=range]:focus::-ms-fill-upper {
   background: #F9F9F9;
 }
 
-button{
+button {
   margin: 25px 0 15px;
   height: 56px;
   width: 20rem;
@@ -233,12 +245,12 @@ button{
   cursor: pointer;
 }
 
-button:hover{
+button:hover {
   background: #03833c;
   box-shadow: 4px 4px 15px -1px rgb(91, 91, 91);
 }
 
-.retornoSenha{
+.retornoSenha {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -251,9 +263,9 @@ button:hover{
   border: 1px solid #F9F9F9;
   border-radius: 8px;
   word-break: break-all;
-  }
+}
 
-.quadroDireita{
+.quadroDireita {
   display: flex;
   flex-direction: column;
 
@@ -270,21 +282,77 @@ button:hover{
   box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
 }
 
-footer{
+footer {
   display: flex;
   width: 500px;
   margin: 0 auto;
   justify-content: space-around;
 }
 
-footer a{
+footer a {
   text-decoration: none;
   color: #F9F9F9;
   padding: 20px 0;
 }
 
-footer a:hover{
+footer a:hover {
   /* color: #52647a; */
   text-shadow: 0px 0px 23px #F9F9F9;
   font-weight: bold;
+}
+
+
+@media screen and (max-width: 1080px) {
+
+  main {
+    /* height: 185vh; */
+    justify-content: flex-start;
+  }
+
+  p {
+    width: 380px;
+    margin-top: 40px;
+  }
+
+  .quadros {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  #gerador {
+    padding: 60px;
+  }
+
+  main h1 {
+    margin: 20px 0 0;
+  }
+}
+
+hr {
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 719px) {
+  main {
+    /* height: 325vh; */
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  main {
+    /* height: 325vh; */
+    justify-content: flex-start;
+  }
+
+  header {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .imagemLogo {
+    scale: 0.7;
+  }
+
 }
