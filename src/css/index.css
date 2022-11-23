@@ -105,7 +105,7 @@ footer a:hover {
 @media screen and (max-width: 1220px) {
 
   main {
-    height: 220vh;
+    height: 230vh;
     justify-content: flex-start;
     flex-direction: column;
   }
