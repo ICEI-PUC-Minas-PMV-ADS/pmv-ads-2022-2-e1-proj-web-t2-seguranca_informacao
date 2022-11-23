@@ -7,7 +7,7 @@
 }
 
 .page {
-  width: 1200px;
+  max-width: 1200px;
   margin: 0 auto;
   padding-top: 30px;
 }
@@ -72,7 +72,7 @@ h1{
 }
 
 p{
-  text-align: center;
+  text-align: justify;
   font-size: 18px;
   line-height: 35px;
 }
@@ -118,4 +118,41 @@ footer a:hover{
   /* color: #52647a; */
   text-shadow: 0px 0px 23px #F9F9F9;
   font-weight: bold;
+}
+
+@media screen and (max-width: 1000px){
+
+  main{
+    justify-content: flex-start;
+  }
+}
+
+hr{
+  margin-bottom: 20px;
+}
+
+#pessoas{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 500px;
+}
+
+.pessoa{
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 700px){
+  main{
+    justify-content: flex-start;
+  }
+
+  header{
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .imagemLogo{
+    scale: 0.7;  
+  }
+
 }
