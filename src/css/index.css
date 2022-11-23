@@ -87,7 +87,7 @@ footer {
   width: 500px;
   margin: 0 auto;
   justify-content: space-around;
-  padding-top: 15px;
+  padding: 15px 0;
 }
 
 footer a {
@@ -105,9 +105,10 @@ footer a:hover {
 @media screen and (max-width: 1220px) {
 
   main {
-    height: 230vh;
+    height: 210vh;
     justify-content: flex-start;
     flex-direction: column;
+    margin-top: 50px;
   }
 
   main .quadro {
@@ -119,9 +120,5 @@ footer a:hover {
     display: flex;
     justify-content: center;
     margin: 0 auto;
-  }
-
-  hr {
-    margin-bottom: 50px;
   }
 }
