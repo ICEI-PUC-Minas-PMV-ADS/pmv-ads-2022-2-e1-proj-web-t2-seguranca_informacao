@@ -109,3 +109,43 @@ footer a:hover{
   font-weight: bold;
 }
 
+@media screen and (max-width: 1000px){
+
+  main{
+    justify-content: flex-start;
+  }
+}
+
+hr{
+  margin-bottom: 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+#pessoas{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 500px;
+}
+
+.pessoa{
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 700px){
+  main{
+    justify-content: flex-start;
+  }
+
+  header{
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .imagemLogo{
+    scale: 0.7;  
+  }
+
+}
