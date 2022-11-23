@@ -103,38 +103,9 @@ form input{
   box-shadow: 13px 13px 45px -1px rgb(91, 91, 91);
 }
 
-/* ::placeholder {
-  color: rgba(68,89,107,1);
-  opacity: 1;
-  font-size: 18px;
-  font-weight: bold;
-  text-shadow: 0px 0px 15px rgb(233, 226, 22);
-} */
-
-/* .container {
-  height: 25px;
-  background-color: #CCC;
-  position: relative;
-  margin-bottom: 40px;
-} */
-
-/* .container .progress-bar{
- position: absolute;
- height: 100%;
- background-color: #08aa2b;
- animation: progress-animation 5s infinite;
-} */
-
-/* @keyframes progress-animation{
-  0% { width: 0%; } 
-  100% { width: 100%}
-} */
-
 p{
-  /* text-align: justify; */
   font-size: 18px;
   line-height: 35px;
-  /* margin: 15px; */
 }
 
 .retorno{
@@ -158,9 +129,7 @@ p{
   display: flex;
   flex-direction: column;
   padding: 30px 0 20px;
-  /* gap: 25px; */
   align-items: center;
-  /* margin-top: 20px; */
 }
 
 #gerador a{
@@ -190,7 +159,6 @@ footer a{
 }
 
 footer a:hover{
-  /* color: #52647a; */
   text-shadow: 0px 0px 23px #F9F9F9;
   font-weight: bold;
 }
@@ -240,14 +208,12 @@ hr{
 
 @media screen and (max-width: 719px){
   main{
-    /* height: 325vh; */
     justify-content: flex-start;
   }
 }
 
 @media screen and (max-width: 600px){
   main{
-    /* height: 325vh; */
     justify-content: flex-start;
   }
 

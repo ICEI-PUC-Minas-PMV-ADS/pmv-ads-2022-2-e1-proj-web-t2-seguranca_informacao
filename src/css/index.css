@@ -78,10 +78,6 @@ main {
   text-decoration: none;
 }
 
-p {
-  /* text-align: center; */
-}
-
 footer {
   display: flex;
   width: 500px;
