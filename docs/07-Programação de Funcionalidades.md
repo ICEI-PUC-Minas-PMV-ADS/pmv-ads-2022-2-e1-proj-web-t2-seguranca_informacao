@@ -4,7 +4,7 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 ## 1. Teste suas senhas (RF-02, RF-04 e RF-06)
 
-<img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_teste_senhas.png?raw=true"/>  
+<img scale=1 src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/main/docs/img/Template_teste_senhas_nova.png"/>  
 
 [URL da tela](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/src/pages/analiseSenhas.html)
 
@@ -29,7 +29,7 @@ Quando a senha for considerada de qualidade fraca ou média, aparecerá um quadr
 
 ## 2. Crie Senhas Seguras (RF-03 e RF-06)  
 
-<img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_outras.PNG?raw=true"/>  
+<img scale=1 src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/main/docs/img/template_outras_nova.png"/>  
 
 [URL da tela](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/src/pages/geradorSenhas.html)
 
@@ -50,7 +50,7 @@ Também é possível definir o tamanho da senha, de 8 a 32 caracteres.
 
 ## 3. Saiba mais sobre segurança da informação (RF-05 e RF-06)  
 
-<img scale=1 src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_informacoes.png?raw=true"/>  
+<img scale=1 src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/main/docs/img/Template_informacoes_nova.png"/>  
 
 [URL da tela](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/src/pages/informacoesIndex.html)
 

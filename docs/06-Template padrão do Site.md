@@ -18,7 +18,7 @@ A tela home se diferencia das demais por não possuir o menu de navegação no c
 O cabeçalho possui o logotipo e um menu de navegação, que varia de acordo com a página acessada.  
 A título de exemplificação, abaixo está apresentada a tela de criação de senha segura:
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/img/Template_outras.PNG?raw=true"/>  
+<img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/main/docs/img/template_outras_nova.png"/>  
 
 <br/>
 
