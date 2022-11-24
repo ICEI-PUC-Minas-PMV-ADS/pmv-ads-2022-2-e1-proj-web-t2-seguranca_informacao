@@ -55,9 +55,7 @@
 
 * Testar se o menu de navegação funciona corretamente.
 
-<div align = center>
-  <img src= "#" width=48%>
-</div>
+<img src= "https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/main/docs/img/Legenda.PNG" width=48%>
 
 ## Teste 07 - Quiz
 
