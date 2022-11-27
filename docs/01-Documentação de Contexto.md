@@ -15,11 +15,6 @@ Em face do que foi exposto, é importante pensar em soluções que apresentem me
 
 ## Problema
 Dificuldade para criação de senhas seguras por parte dos usuários.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
 <br/>
 
 ## Objetivos
@@ -30,7 +25,7 @@ A aplicação possui como objetivos específicos:
 * Avaliar a qualidade das senhas informadas pelos usuários;
 * Sugerir senhas fortes, caso necessário;
 * Disponibilizar informações sobre a segurança da informação e os riscos existentes ao utilizar a internet;
-* Alertar sobre senhas vazadas.
+* Apresentar um *quiz* para que os usuários possam testar seus conhecimentos sobre segurança da informação.
 
 <br/>
 
