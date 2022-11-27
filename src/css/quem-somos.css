@@ -109,6 +109,10 @@ footer{
   padding-top: 15px;
 }
 
+span{
+  text-decoration: underline;
+}
+
 footer a{
   text-decoration: none;
   color: #F9F9F9;
