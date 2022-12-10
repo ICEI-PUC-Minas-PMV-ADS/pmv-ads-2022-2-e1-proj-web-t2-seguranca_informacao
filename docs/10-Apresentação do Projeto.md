@@ -1,8 +1,6 @@
 # Apresentação
 
-## Título do Projeto
-
-InfoSec
+## Título do Projeto: InfoSec
 
 ## Identidade Visual (Marca, Design)
 
