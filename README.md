@@ -28,7 +28,7 @@ Nossos perfis no LinkedIn estão disponíveis no [quem somos](https://icei-puc-m
 
 ## Instruções de utilização
 
-Para utilizar a aplicação, basta acessar o endereço eletrônico [InfoSec](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
+Para utilizar a aplicação, basta acessar o endereço eletrônico a seguir: [InfoSec](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
 # Documentação
 
@@ -48,7 +48,7 @@ Para utilizar a aplicação, basta acessar o endereço eletrônico [InfoSec](htt
 
 # Hospedagem
 
-> [https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
+[https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/)
 
 # Armazenamento do Código-Fonte
 
@@ -56,6 +56,8 @@ Para utilizar a aplicação, basta acessar o endereço eletrônico [InfoSec](htt
 
 # Apresentação
 
-<a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/10-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md">Armazenamento da apresentação</a>
+A apresentação resumida do projeto pode ser vista no vídeo disponibilizado abaixo:
 
 https://user-images.githubusercontent.com/82981072/206873589-54ea125b-fd70-4bc3-8e53-5ffda079e358.mp4
+
+Armazenamento da apresentação: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-seguranca_informacao/blob/main/docs/10-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md">acesse aqui</a>
