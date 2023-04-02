@@ -42,20 +42,28 @@ A equipe está organizada da seguinte maneira:
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub - Project estruturado com as seguintes listas:  
 
 * `Backlog`: Recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
-* `To Do`: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+* `To Do`: Esta lista representa o Sprint Backlog. Esta etapa e onde ocorre o estudo das atividades e o que sera feito.
 * `In progress`: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 * `Test`: Checagem de qualidade. Ao certificar que a tarefa foi finalizada e está em teste, é movida para esta coluna.
+* `Deploy`: Esta etapa a tarefa é implementada ao projeto porém ainda podendo sofrer alguma alteração.
 * `Done`: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Git
-- GitHub
-- Visual Studio Code
-- Microsoft Teams
-- Whatsapp
-- Moqups app para de esquematização de telas (_wireframing_)
+- Editor de código.
+- Ferramentas de comunicação
+- Ferramentas de desenho de tela (_wireframing_)
 
-O Visual Studio Code foi escolhido porque ele possui uma integração direta com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos o site moqups.com por melhor captar as necessidades da nossa solução.
+O editor de código foi escolhido porque ele possui uma integração com o
+sistema de versão. As ferramentas de comunicação utilizadas possuem
+integração semelhante e por isso foram selecionadas. Por fim, para criar
+diagramas utilizamos essa ferramenta por melhor captar as
+necessidades da nossa solução.
+
+Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+ 
+> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
+> - [Slack](https://slack.com/)
+> - [Github](https://github.com/)
